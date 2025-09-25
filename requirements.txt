@@ -1,0 +1,14 @@
+# Core data processing
+pandas
+numpy
+
+# Visualization
+matplotlib
+plotly
+seaborn
+
+# Dashboard
+streamlit
+
+# Jupyter/Colab support (optional if you run locally)
+jupyter
