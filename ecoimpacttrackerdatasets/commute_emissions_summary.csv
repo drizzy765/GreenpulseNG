@@ -1,0 +1,9 @@
+business_id,business_type,date,commute_mode,distance_km,unit,emission_factor,emissions_kgCO2e
+B0001,Bakery,2024-01,motorbike,3200,km,0.112,358.40000000000003
+B0001,Bakery,2024-01,bus,8200,passenger-km,0.088,721.5999999999999
+B0002,Restaurant,2024-01,bus,10500,passenger-km,0.088,924.0
+B0003,Supermarket,2024-01,car_petrol,5400,km,0.225,1215.0
+B0003,Supermarket,2024-01,bus,7600,passenger-km,0.088,668.8
+B0003,Supermarket,2024-01,delivery_van,4200,km,0.315,1323.0
+B0004,Fuel Station,2024-01,motorbike,2800,km,0.112,313.6
+B0004,Fuel Station,2024-01,bus,6900,passenger-km,0.088,607.1999999999999

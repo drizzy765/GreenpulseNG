@@ -1,0 +1,6 @@
+business_id,business_type,date,travel_mode,distance_km,passengers,unit,emission_factor,passenger_km,emissions_kgCO2e
+B0001,Bakery,2024-01,flight,750,1,passenger-km,0.15,750,112.5
+B0002,Restaurant,2024-01,bus,500,2,passenger-km,0.09,1000,90.0
+B0003,Supermarket,2024-01,car,200,1,passenger-km,0.225,200,45.0
+B0001,Bakery,2024-02,motorbike,50,1,passenger-km,0.112,50,5.6000000000000005
+B0002,Restaurant,2024-02,flight,600,1,passenger-km,0.15,600,90.0
