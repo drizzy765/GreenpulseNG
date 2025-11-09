@@ -1,0 +1,1604 @@
+business_id,business_type,date,source_category,activity,amount,unit,emission_factor,emissions_kgCO2e,scope
+B0001,Bakery,2024-01,electricity,electricity_consumption,264.0,kWh,0.359,94.776,Scope 2
+B0001,Bakery,2024-01,waste,food_composting,87.34,kg,0.2,17.468,Scope 3
+B0001,Bakery,2024-01,waste,plastic_landfill,53.38,kg,2.5,133.45000000000002,Scope 3
+B0001,Bakery,2024-01,waste,paper_recycling,98.67,kg,-0.4,-39.468,Scope 3
+B0001,Bakery,2024-01,transport,car_diesel,275.6,km,0.201,55.39560000000001,Scope 3
+B0001,Bakery,2024-01,transport,car_petrol,83.1,km,0.225,18.6975,Scope 3
+B0001,Bakery,2024-01,transport,delivery_van,196.9,km,0.315,62.023500000000006,Scope 3
+B0001,Bakery,2024-01,business_travel,flight,750.0,passenger-km,0.15,112.5,Scope 3
+B0001,Bakery,2024-01,commute,motorbike,3200.0,km,0.112,358.40000000000003,Scope 3
+B0001,Bakery,2024-01,commute,bus,8200.0,passenger-km,0.09,738.0,Scope 3
+B0001,Bakery,2024-01-01,water,water_supply,130.0,m3,0.344,44.72,Scope 3
+B0001,Bakery,2024-01-01,water,wastewater_unmanaged,91.0,m3,0.708,64.428,Scope 3
+B0001,Bakery,2024-02,electricity,electricity_consumption,544.0,kWh,0.359,195.296,Scope 2
+B0001,Bakery,2024-02,waste,food_landfill,46.07,kg,1.4,64.49799999999999,Scope 3
+B0001,Bakery,2024-02,waste,plastic_recycling,86.1,kg,-0.4,-34.44,Scope 3
+B0001,Bakery,2024-02,waste,paper_recycling,36.35,kg,-0.4,-14.54,Scope 3
+B0001,Bakery,2024-02,transport,bus,2142.0,passenger-km,0.09,192.78,Scope 3
+B0001,Bakery,2024-02,transport,delivery_van,79.5,km,0.315,25.0425,Scope 3
+B0001,Bakery,2024-02,transport,car_petrol,158.8,km,0.225,35.730000000000004,Scope 3
+B0001,Bakery,2024-02,transport,car_diesel,31.0,km,0.201,6.231000000000001,Scope 3
+B0001,Bakery,2024-02,business_travel,motorbike,50.0,passenger-km,0.112,5.6000000000000005,Scope 3
+B0001,Bakery,2024-02-01,water,water_supply,122.0,m3,0.344,41.968,Scope 3
+B0001,Bakery,2024-02-01,water,wastewater_unmanaged,85.39999999999999,m3,0.708,60.4632,Scope 3
+B0001,Bakery,2024-03,electricity,electricity_consumption,811.0,kWh,0.359,291.149,Scope 2
+B0001,Bakery,2024-03,waste,food_composting,45.06,kg,0.2,9.012,Scope 3
+B0001,Bakery,2024-03,waste,plastic_landfill,57.59,kg,2.5,143.97500000000002,Scope 3
+B0001,Bakery,2024-03,waste,paper_landfill,26.64,kg,1.0,26.64,Scope 3
+B0001,Bakery,2024-03,transport,car_petrol,168.8,km,0.225,37.98,Scope 3
+B0001,Bakery,2024-03,transport,bus,1403.4,passenger-km,0.09,126.306,Scope 3
+B0001,Bakery,2024-03-01,water,water_supply,140.0,m3,0.344,48.16,Scope 3
+B0001,Bakery,2024-03-01,water,wastewater_unmanaged,98.0,m3,0.708,69.384,Scope 3
+B0001,Bakery,2024-04,electricity,electricity_consumption,291.0,kWh,0.359,104.469,Scope 2
+B0001,Bakery,2024-04,waste,food_landfill,50.39,kg,1.4,70.54599999999999,Scope 3
+B0001,Bakery,2024-04,waste,plastic_recycling,23.17,kg,-0.4,-9.268,Scope 3
+B0001,Bakery,2024-04,waste,paper_landfill,68.23,kg,1.0,68.23,Scope 3
+B0001,Bakery,2024-04,transport,delivery_van,249.1,km,0.315,78.4665,Scope 3
+B0001,Bakery,2024-04,transport,car_petrol,224.1,km,0.225,50.4225,Scope 3
+B0001,Bakery,2024-04,transport,motorbike,80.2,km,0.112,8.9824,Scope 3
+B0001,Bakery,2024-04-01,water,water_supply,130.0,m3,0.344,44.72,Scope 3
+B0001,Bakery,2024-04-01,water,wastewater_unmanaged,91.0,m3,0.708,64.428,Scope 3
+B0001,Bakery,2024-05,electricity,electricity_consumption,500.0,kWh,0.359,179.5,Scope 2
+B0001,Bakery,2024-05,waste,food_landfill,73.94,kg,1.4,103.516,Scope 3
+B0001,Bakery,2024-05,waste,plastic_landfill,81.76,kg,2.5,204.4,Scope 3
+B0001,Bakery,2024-05,waste,paper_landfill,85.71,kg,1.0,85.71,Scope 3
+B0001,Bakery,2024-05,transport,car_petrol,297.4,km,0.225,66.91499999999999,Scope 3
+B0001,Bakery,2024-05-01,water,water_supply,144.0,m3,0.344,49.536,Scope 3
+B0001,Bakery,2024-05-01,water,wastewater_unmanaged,100.8,m3,0.708,71.3664,Scope 3
+B0001,Bakery,2024-06,electricity,electricity_consumption,262.0,kWh,0.359,94.058,Scope 2
+B0001,Bakery,2024-06,waste,food_composting,30.64,kg,0.2,6.128,Scope 3
+B0001,Bakery,2024-06,waste,plastic_landfill,94.45,kg,2.5,236.125,Scope 3
+B0001,Bakery,2024-06,waste,paper_landfill,24.84,kg,1.0,24.84,Scope 3
+B0001,Bakery,2024-06,transport,car_petrol,227.5,km,0.225,51.1875,Scope 3
+B0001,Bakery,2024-06,transport,bus,320.0,passenger-km,0.09,28.8,Scope 3
+B0001,Bakery,2024-06,transport,car_diesel,139.3,km,0.201,27.999300000000005,Scope 3
+B0001,Bakery,2024-06-01,water,water_supply,148.0,m3,0.344,50.912,Scope 3
+B0001,Bakery,2024-06-01,water,wastewater_unmanaged,103.6,m3,0.708,73.3488,Scope 3
+B0001,Bakery,2024-07,electricity,electricity_consumption,437.0,kWh,0.359,156.883,Scope 2
+B0001,Bakery,2024-07,waste,food_composting,28.19,kg,0.2,5.638000000000001,Scope 3
+B0001,Bakery,2024-07,waste,plastic_landfill,21.4,kg,2.5,53.5,Scope 3
+B0001,Bakery,2024-07,waste,paper_recycling,68.14,kg,-0.4,-27.256,Scope 3
+B0001,Bakery,2024-07,transport,bus,721.5,passenger-km,0.09,64.935,Scope 3
+B0001,Bakery,2024-07,transport,car_diesel,170.7,km,0.201,34.3107,Scope 3
+B0001,Bakery,2024-07-01,water,water_supply,125.0,m3,0.344,43.0,Scope 3
+B0001,Bakery,2024-07-01,water,wastewater_unmanaged,87.5,m3,0.708,61.95,Scope 3
+B0001,Bakery,2024-08,electricity,electricity_consumption,299.0,kWh,0.359,107.341,Scope 2
+B0001,Bakery,2024-08,waste,food_landfill,59.26,kg,1.4,82.964,Scope 3
+B0001,Bakery,2024-08,waste,plastic_landfill,96.04,kg,2.5,240.1,Scope 3
+B0001,Bakery,2024-08,waste,paper_landfill,98.31,kg,1.0,98.31,Scope 3
+B0001,Bakery,2024-08,transport,car_diesel,165.3,km,0.201,33.225300000000004,Scope 3
+B0001,Bakery,2024-08,transport,bus,1635.2,passenger-km,0.09,147.168,Scope 3
+B0001,Bakery,2024-08,transport,motorbike,73.9,km,0.112,8.276800000000001,Scope 3
+B0001,Bakery,2024-08-01,water,water_supply,121.0,m3,0.344,41.624,Scope 3
+B0001,Bakery,2024-08-01,water,wastewater_unmanaged,84.69999999999999,m3,0.708,59.9676,Scope 3
+B0001,Bakery,2024-09,electricity,electricity_consumption,453.0,kWh,0.359,162.627,Scope 2
+B0001,Bakery,2024-09,waste,food_landfill,42.49,kg,1.4,59.486,Scope 3
+B0001,Bakery,2024-09,waste,plastic_landfill,89.37,kg,2.5,223.425,Scope 3
+B0001,Bakery,2024-09,waste,paper_recycling,38.04,kg,-0.4,-15.216,Scope 3
+B0001,Bakery,2024-09,transport,motorbike,166.8,km,0.112,18.681600000000003,Scope 3
+B0001,Bakery,2024-09,transport,delivery_van,130.4,km,0.315,41.076,Scope 3
+B0001,Bakery,2024-09-01,water,water_supply,107.0,m3,0.344,36.808,Scope 3
+B0001,Bakery,2024-09-01,water,wastewater_unmanaged,74.89999999999999,m3,0.708,53.0292,Scope 3
+B0001,Bakery,2024-10,electricity,electricity_consumption,819.0,kWh,0.359,294.021,Scope 2
+B0001,Bakery,2024-10,waste,food_landfill,88.99,kg,1.4,124.58599999999998,Scope 3
+B0001,Bakery,2024-10,waste,plastic_landfill,93.68,kg,2.5,234.2,Scope 3
+B0001,Bakery,2024-10,waste,paper_landfill,56.98,kg,1.0,56.98,Scope 3
+B0001,Bakery,2024-10,transport,car_petrol,74.8,km,0.225,16.83,Scope 3
+B0001,Bakery,2024-10,transport,bus,1899.8,passenger-km,0.09,170.982,Scope 3
+B0001,Bakery,2024-10,transport,car_diesel,253.8,km,0.201,51.0138,Scope 3
+B0001,Bakery,2024-10-01,water,water_supply,108.0,m3,0.344,37.152,Scope 3
+B0001,Bakery,2024-10-01,water,wastewater_unmanaged,75.6,m3,0.708,53.5248,Scope 3
+B0001,Bakery,2024-11,electricity,electricity_consumption,165.0,kWh,0.359,59.235,Scope 2
+B0001,Bakery,2024-11,waste,food_landfill,58.85,kg,1.4,82.39,Scope 3
+B0001,Bakery,2024-11,waste,plastic_recycling,19.29,kg,-0.4,-7.716,Scope 3
+B0001,Bakery,2024-11,waste,paper_recycling,81.67,kg,-0.4,-32.668,Scope 3
+B0001,Bakery,2024-11,transport,delivery_van,167.1,km,0.315,52.6365,Scope 3
+B0001,Bakery,2024-11,transport,car_petrol,223.3,km,0.225,50.24250000000001,Scope 3
+B0001,Bakery,2024-11,transport,motorbike,187.2,km,0.112,20.9664,Scope 3
+B0001,Bakery,2024-11-01,water,water_supply,140.0,m3,0.344,48.16,Scope 3
+B0001,Bakery,2024-11-01,water,wastewater_unmanaged,98.0,m3,0.708,69.384,Scope 3
+B0001,Bakery,2024-12,electricity,electricity_consumption,205.0,kWh,0.359,73.595,Scope 2
+B0001,Bakery,2024-12,waste,food_landfill,69.15,kg,1.4,96.81,Scope 3
+B0001,Bakery,2024-12,waste,plastic_recycling,60.11,kg,-0.4,-24.044,Scope 3
+B0001,Bakery,2024-12,waste,paper_landfill,95.29,kg,1.0,95.29,Scope 3
+B0001,Bakery,2024-12,transport,bus,681.2,passenger-km,0.09,61.308,Scope 3
+B0001,Bakery,2024-12,transport,delivery_van,237.2,km,0.315,74.718,Scope 3
+B0001,Bakery,2024-12,transport,car_petrol,54.8,km,0.225,12.33,Scope 3
+B0001,Bakery,2024-12-01,water,water_supply,143.0,m3,0.344,49.192,Scope 3
+B0001,Bakery,2024-12-01,water,wastewater_unmanaged,100.1,m3,0.708,70.8708,Scope 3
+B0002,Bakery,2024-01,electricity,electricity_consumption,469.0,kWh,0.359,168.371,Scope 2
+B0002,Restaurant,2024-01,waste,food_landfill,12.56,kg,1.4,17.584,Scope 3
+B0002,Restaurant,2024-01,waste,plastic_landfill,42.02,kg,2.5,105.05,Scope 3
+B0002,Restaurant,2024-01,waste,paper_landfill,52.61,kg,1.0,52.61,Scope 3
+B0002,Restaurant,2024-01,transport,motorbike,133.6,km,0.112,14.9632,Scope 3
+B0002,Restaurant,2024-01,transport,car_diesel,250.0,km,0.201,50.25,Scope 3
+B0002,Restaurant,2024-01,transport,car_petrol,61.1,km,0.225,13.7475,Scope 3
+B0002,Restaurant,2024-01,commute,bus,10500.0,passenger-km,0.09,945.0,Scope 3
+B0002,Restaurant,2024-01-01,water,water_supply,348.0,m3,0.344,119.712,Scope 3
+B0002,Restaurant,2024-01-01,water,wastewater_centralized,233.16000000000005,m3,0.272,63.41952000000001,Scope 3
+B0002,Bakery,2024-02,electricity,electricity_consumption,483.0,kWh,0.359,173.397,Scope 2
+B0002,Restaurant,2024-02,waste,food_composting,90.3,kg,0.2,18.06,Scope 3
+B0002,Restaurant,2024-02,waste,plastic_recycling,97.64,kg,-0.4,-39.056,Scope 3
+B0002,Restaurant,2024-02,waste,paper_recycling,78.19,kg,-0.4,-31.276,Scope 3
+B0002,Restaurant,2024-02,transport,delivery_van,17.9,km,0.315,5.6385,Scope 3
+B0002,Restaurant,2024-02,transport,bus,3318.0,passenger-km,0.09,298.62,Scope 3
+B0002,Restaurant,2024-02,transport,motorbike,37.0,km,0.112,4.144,Scope 3
+B0002,Restaurant,2024-02,business_travel,flight,600.0,passenger-km,0.15,90.0,Scope 3
+B0002,Restaurant,2024-02-01,water,water_supply,314.0,m3,0.344,108.016,Scope 3
+B0002,Restaurant,2024-02-01,water,wastewater_centralized,210.38,m3,0.272,57.223360000000014,Scope 3
+B0002,Bakery,2024-03,electricity,electricity_consumption,270.0,kWh,0.359,96.93,Scope 2
+B0002,Restaurant,2024-03,waste,food_landfill,38.4,kg,1.4,53.76,Scope 3
+B0002,Restaurant,2024-03,waste,plastic_recycling,14.61,kg,-0.4,-5.844,Scope 3
+B0002,Restaurant,2024-03,waste,paper_landfill,95.17,kg,1.0,95.17,Scope 3
+B0002,Restaurant,2024-03,transport,car_diesel,170.8,km,0.201,34.3308,Scope 3
+B0002,Restaurant,2024-03,transport,motorbike,208.7,km,0.112,23.3744,Scope 3
+B0002,Restaurant,2024-03,transport,car_petrol,36.6,km,0.225,8.235000000000001,Scope 3
+B0002,Restaurant,2024-03-01,water,water_supply,303.0,m3,0.344,104.232,Scope 3
+B0002,Restaurant,2024-03-01,water,wastewater_centralized,203.01,m3,0.272,55.21872000000001,Scope 3
+B0002,Bakery,2024-04,electricity,electricity_consumption,481.0,kWh,0.359,172.679,Scope 2
+B0002,Restaurant,2024-04,waste,food_composting,50.46,kg,0.2,10.092,Scope 3
+B0002,Restaurant,2024-04,waste,plastic_recycling,82.88,kg,-0.4,-33.152,Scope 3
+B0002,Restaurant,2024-04,waste,paper_recycling,42.77,kg,-0.4,-17.108,Scope 3
+B0002,Restaurant,2024-04,transport,car_petrol,69.5,km,0.225,15.6375,Scope 3
+B0002,Restaurant,2024-04,transport,delivery_van,68.7,km,0.315,21.6405,Scope 3
+B0002,Restaurant,2024-04,transport,motorbike,238.4,km,0.112,26.7008,Scope 3
+B0002,Restaurant,2024-04,transport,car_diesel,60.4,km,0.201,12.1404,Scope 3
+B0002,Restaurant,2024-04-01,water,water_supply,289.0,m3,0.344,99.416,Scope 3
+B0002,Restaurant,2024-04-01,water,wastewater_centralized,193.63,m3,0.272,52.66736000000001,Scope 3
+B0002,Bakery,2024-05,electricity,electricity_consumption,575.0,kWh,0.359,206.425,Scope 2
+B0002,Restaurant,2024-05,waste,food_composting,13.03,kg,0.2,2.606,Scope 3
+B0002,Restaurant,2024-05,waste,plastic_recycling,95.21,kg,-0.4,-38.084,Scope 3
+B0002,Restaurant,2024-05,waste,paper_landfill,90.94,kg,1.0,90.94,Scope 3
+B0002,Restaurant,2024-05,transport,delivery_van,23.1,km,0.315,7.2765,Scope 3
+B0002,Restaurant,2024-05,transport,car_diesel,251.9,km,0.201,50.6319,Scope 3
+B0002,Restaurant,2024-05-01,water,water_supply,296.0,m3,0.344,101.824,Scope 3
+B0002,Restaurant,2024-05-01,water,wastewater_centralized,198.32,m3,0.272,53.94304000000001,Scope 3
+B0002,Bakery,2024-06,electricity,electricity_consumption,311.0,kWh,0.359,111.649,Scope 2
+B0002,Restaurant,2024-06,waste,food_composting,55.49,kg,0.2,11.098,Scope 3
+B0002,Restaurant,2024-06,waste,plastic_landfill,42.85,kg,2.5,107.125,Scope 3
+B0002,Restaurant,2024-06,waste,paper_landfill,86.18,kg,1.0,86.18,Scope 3
+B0002,Restaurant,2024-06,transport,bus,2281.2,passenger-km,0.09,205.308,Scope 3
+B0002,Restaurant,2024-06,transport,car_diesel,252.1,km,0.201,50.6721,Scope 3
+B0002,Restaurant,2024-06-01,water,water_supply,314.0,m3,0.344,108.016,Scope 3
+B0002,Restaurant,2024-06-01,water,wastewater_centralized,210.38,m3,0.272,57.223360000000014,Scope 3
+B0002,Bakery,2024-07,electricity,electricity_consumption,243.0,kWh,0.359,87.237,Scope 2
+B0002,Restaurant,2024-07,waste,food_composting,64.21,kg,0.2,12.842,Scope 3
+B0002,Restaurant,2024-07,waste,plastic_landfill,12.26,kg,2.5,30.65,Scope 3
+B0002,Restaurant,2024-07,waste,paper_recycling,64.62,kg,-0.4,-25.848000000000003,Scope 3
+B0002,Restaurant,2024-07,transport,bus,3313.5,passenger-km,0.09,298.215,Scope 3
+B0002,Restaurant,2024-07,transport,car_petrol,281.7,km,0.225,63.3825,Scope 3
+B0002,Restaurant,2024-07,transport,delivery_van,199.8,km,0.315,62.937000000000005,Scope 3
+B0002,Restaurant,2024-07-01,water,water_supply,288.0,m3,0.344,99.072,Scope 3
+B0002,Restaurant,2024-07-01,water,wastewater_centralized,192.96,m3,0.272,52.48512000000001,Scope 3
+B0002,Bakery,2024-08,electricity,electricity_consumption,197.0,kWh,0.359,70.723,Scope 2
+B0002,Restaurant,2024-08,waste,food_composting,35.27,kg,0.2,7.054000000000001,Scope 3
+B0002,Restaurant,2024-08,waste,plastic_landfill,26.87,kg,2.5,67.175,Scope 3
+B0002,Restaurant,2024-08,waste,paper_recycling,17.81,kg,-0.4,-7.124,Scope 3
+B0002,Restaurant,2024-08,transport,car_petrol,284.7,km,0.225,64.0575,Scope 3
+B0002,Restaurant,2024-08,transport,bus,262.7,passenger-km,0.09,23.643,Scope 3
+B0002,Restaurant,2024-08-01,water,water_supply,318.0,m3,0.344,109.392,Scope 3
+B0002,Restaurant,2024-08-01,water,wastewater_centralized,213.06,m3,0.272,57.95232000000001,Scope 3
+B0002,Bakery,2024-09,electricity,electricity_consumption,359.0,kWh,0.359,128.881,Scope 2
+B0002,Restaurant,2024-09,waste,food_composting,86.26,kg,0.2,17.252000000000002,Scope 3
+B0002,Restaurant,2024-09,waste,plastic_landfill,40.86,kg,2.5,102.15,Scope 3
+B0002,Restaurant,2024-09,waste,paper_recycling,47.62,kg,-0.4,-19.048,Scope 3
+B0002,Restaurant,2024-09,transport,motorbike,34.4,km,0.112,3.8528,Scope 3
+B0002,Restaurant,2024-09,transport,car_diesel,107.9,km,0.201,21.687900000000003,Scope 3
+B0002,Restaurant,2024-09,transport,car_petrol,76.9,km,0.225,17.302500000000002,Scope 3
+B0002,Restaurant,2024-09,transport,delivery_van,273.6,km,0.315,86.18400000000001,Scope 3
+B0002,Restaurant,2024-09-01,water,water_supply,251.0,m3,0.344,86.344,Scope 3
+B0002,Restaurant,2024-09-01,water,wastewater_centralized,168.17000000000002,m3,0.272,45.74224000000001,Scope 3
+B0002,Bakery,2024-10,electricity,electricity_consumption,421.0,kWh,0.359,151.139,Scope 2
+B0002,Restaurant,2024-10,waste,food_composting,90.51,kg,0.2,18.102,Scope 3
+B0002,Restaurant,2024-10,waste,plastic_landfill,67.4,kg,2.5,168.5,Scope 3
+B0002,Restaurant,2024-10,waste,paper_landfill,66.29,kg,1.0,66.29,Scope 3
+B0002,Restaurant,2024-10,transport,car_petrol,201.5,km,0.225,45.3375,Scope 3
+B0002,Restaurant,2024-10,transport,car_diesel,232.0,km,0.201,46.632000000000005,Scope 3
+B0002,Restaurant,2024-10-01,water,water_supply,286.0,m3,0.344,98.384,Scope 3
+B0002,Restaurant,2024-10-01,water,wastewater_centralized,191.62,m3,0.272,52.12064,Scope 3
+B0002,Bakery,2024-11,electricity,electricity_consumption,289.0,kWh,0.359,103.751,Scope 2
+B0002,Restaurant,2024-11,waste,food_composting,69.42,kg,0.2,13.884,Scope 3
+B0002,Restaurant,2024-11,waste,plastic_landfill,14.91,kg,2.5,37.275,Scope 3
+B0002,Restaurant,2024-11,waste,paper_landfill,27.52,kg,1.0,27.52,Scope 3
+B0002,Restaurant,2024-11,transport,motorbike,155.7,km,0.112,17.438399999999998,Scope 3
+B0002,Restaurant,2024-11,transport,car_diesel,267.7,km,0.201,53.8077,Scope 3
+B0002,Restaurant,2024-11,transport,car_petrol,234.2,km,0.225,52.695,Scope 3
+B0002,Restaurant,2024-11,transport,delivery_van,189.6,km,0.315,59.724,Scope 3
+B0002,Restaurant,2024-11-01,water,water_supply,324.0,m3,0.344,111.456,Scope 3
+B0002,Restaurant,2024-11-01,water,wastewater_centralized,217.08,m3,0.272,59.04576000000001,Scope 3
+B0002,Bakery,2024-12,electricity,electricity_consumption,645.0,kWh,0.359,231.555,Scope 2
+B0002,Restaurant,2024-12,waste,food_landfill,35.52,kg,1.4,49.728,Scope 3
+B0002,Restaurant,2024-12,waste,plastic_recycling,40.44,kg,-0.4,-16.176,Scope 3
+B0002,Restaurant,2024-12,waste,paper_landfill,18.54,kg,1.0,18.54,Scope 3
+B0002,Restaurant,2024-12,transport,car_diesel,275.2,km,0.201,55.3152,Scope 3
+B0002,Restaurant,2024-12,transport,delivery_van,262.1,km,0.315,82.56150000000001,Scope 3
+B0002,Restaurant,2024-12,transport,motorbike,242.0,km,0.112,27.104,Scope 3
+B0002,Restaurant,2024-12-01,water,water_supply,256.0,m3,0.344,88.064,Scope 3
+B0002,Restaurant,2024-12-01,water,wastewater_centralized,171.52,m3,0.272,46.65344,Scope 3
+B0003,Bakery,2024-01,electricity,electricity_consumption,320.0,kWh,0.359,114.88,Scope 2
+B0003,Supermarket,2024-01,waste,food_landfill,64.57,kg,1.4,90.39799999999998,Scope 3
+B0003,Supermarket,2024-01,waste,plastic_landfill,33.44,kg,2.5,83.6,Scope 3
+B0003,Supermarket,2024-01,waste,paper_recycling,37.39,kg,-0.4,-14.956,Scope 3
+B0003,Supermarket,2024-01,transport,car_diesel,152.6,km,0.201,30.6726,Scope 3
+B0003,Supermarket,2024-01,business_travel,car,200.0,passenger-km,0.225,45.0,Scope 3
+B0003,Supermarket,2024-01,commute,car_petrol,5400.0,km,0.225,1215.0,Scope 3
+B0003,Supermarket,2024-01,commute,bus,7600.0,passenger-km,0.09,684.0,Scope 3
+B0003,Supermarket,2024-01,commute,delivery_van,4200.0,km,0.315,1323.0,Scope 3
+B0003,Supermarket,2024-01-01,water,water_supply,517.0,m3,0.344,177.848,Scope 3
+B0003,Supermarket,2024-01-01,water,wastewater_unmanaged,387.75,m3,0.708,274.527,Scope 3
+B0003,Bakery,2024-02,electricity,electricity_consumption,387.0,kWh,0.359,138.933,Scope 2
+B0003,Supermarket,2024-02,waste,food_composting,61.65,kg,0.2,12.33,Scope 3
+B0003,Supermarket,2024-02,waste,plastic_recycling,14.64,kg,-0.4,-5.856000000000001,Scope 3
+B0003,Supermarket,2024-02,waste,paper_landfill,58.91,kg,1.0,58.91,Scope 3
+B0003,Supermarket,2024-02,transport,bus,4187.400000000001,passenger-km,0.09,376.866,Scope 3
+B0003,Supermarket,2024-02,transport,motorbike,59.8,km,0.112,6.6976,Scope 3
+B0003,Supermarket,2024-02,transport,car_diesel,72.0,km,0.201,14.472,Scope 3
+B0003,Supermarket,2024-02,transport,delivery_van,291.8,km,0.315,91.917,Scope 3
+B0003,Supermarket,2024-02-01,water,water_supply,424.0,m3,0.344,145.856,Scope 3
+B0003,Supermarket,2024-02-01,water,wastewater_unmanaged,318.0,m3,0.708,225.144,Scope 3
+B0003,Bakery,2024-03,electricity,electricity_consumption,303.0,kWh,0.359,108.777,Scope 2
+B0003,Supermarket,2024-03,waste,food_composting,71.58,kg,0.2,14.316,Scope 3
+B0003,Supermarket,2024-03,waste,plastic_landfill,52.26,kg,2.5,130.65,Scope 3
+B0003,Supermarket,2024-03,waste,paper_recycling,33.15,kg,-0.4,-13.26,Scope 3
+B0003,Supermarket,2024-03,transport,motorbike,170.7,km,0.112,19.1184,Scope 3
+B0003,Supermarket,2024-03,transport,bus,1864.8,passenger-km,0.09,167.832,Scope 3
+B0003,Supermarket,2024-03,transport,car_petrol,40.1,km,0.225,9.0225,Scope 3
+B0003,Supermarket,2024-03-01,water,water_supply,454.0,m3,0.344,156.176,Scope 3
+B0003,Supermarket,2024-03-01,water,wastewater_unmanaged,340.5,m3,0.708,241.074,Scope 3
+B0003,Bakery,2024-04,electricity,electricity_consumption,658.0,kWh,0.359,236.222,Scope 2
+B0003,Supermarket,2024-04,waste,food_landfill,19.7,kg,1.4,27.58,Scope 3
+B0003,Supermarket,2024-04,waste,plastic_landfill,98.0,kg,2.5,245.0,Scope 3
+B0003,Supermarket,2024-04,waste,paper_recycling,10.37,kg,-0.4,-4.148,Scope 3
+B0003,Supermarket,2024-04,transport,delivery_van,233.2,km,0.315,73.458,Scope 3
+B0003,Supermarket,2024-04,transport,car_petrol,158.7,km,0.225,35.7075,Scope 3
+B0003,Supermarket,2024-04-01,water,water_supply,522.0,m3,0.344,179.568,Scope 3
+B0003,Supermarket,2024-04-01,water,wastewater_unmanaged,391.5,m3,0.708,277.182,Scope 3
+B0003,Bakery,2024-05,electricity,electricity_consumption,441.0,kWh,0.359,158.319,Scope 2
+B0003,Supermarket,2024-05,waste,food_landfill,41.02,kg,1.4,57.428,Scope 3
+B0003,Supermarket,2024-05,waste,plastic_recycling,11.62,kg,-0.4,-4.648,Scope 3
+B0003,Supermarket,2024-05,waste,paper_landfill,10.52,kg,1.0,10.52,Scope 3
+B0003,Supermarket,2024-05,transport,bus,3663.8,passenger-km,0.09,329.742,Scope 3
+B0003,Supermarket,2024-05-01,water,water_supply,409.0,m3,0.344,140.696,Scope 3
+B0003,Supermarket,2024-05-01,water,wastewater_unmanaged,306.75,m3,0.708,217.179,Scope 3
+B0003,Bakery,2024-06,electricity,electricity_consumption,129.0,kWh,0.359,46.311,Scope 2
+B0003,Supermarket,2024-06,waste,food_landfill,34.52,kg,1.4,48.328,Scope 3
+B0003,Supermarket,2024-06,waste,plastic_recycling,68.9,kg,-0.4,-27.56,Scope 3
+B0003,Supermarket,2024-06,waste,paper_recycling,63.7,kg,-0.4,-25.480000000000004,Scope 3
+B0003,Supermarket,2024-06,transport,motorbike,274.6,km,0.112,30.7552,Scope 3
+B0003,Supermarket,2024-06,transport,delivery_van,33.8,km,0.315,10.646999999999998,Scope 3
+B0003,Supermarket,2024-06-01,water,water_supply,443.0,m3,0.344,152.392,Scope 3
+B0003,Supermarket,2024-06-01,water,wastewater_unmanaged,332.25,m3,0.708,235.233,Scope 3
+B0003,Bakery,2024-07,electricity,electricity_consumption,702.0,kWh,0.359,252.018,Scope 2
+B0003,Supermarket,2024-07,waste,food_landfill,71.72,kg,1.4,100.408,Scope 3
+B0003,Supermarket,2024-07,waste,plastic_landfill,56.27,kg,2.5,140.675,Scope 3
+B0003,Supermarket,2024-07,waste,paper_recycling,85.47,kg,-0.4,-34.188,Scope 3
+B0003,Supermarket,2024-07,transport,car_petrol,278.9,km,0.225,62.7525,Scope 3
+B0003,Supermarket,2024-07,transport,motorbike,242.2,km,0.112,27.1264,Scope 3
+B0003,Supermarket,2024-07,transport,delivery_van,169.7,km,0.315,53.4555,Scope 3
+B0003,Supermarket,2024-07-01,water,water_supply,460.0,m3,0.344,158.24,Scope 3
+B0003,Supermarket,2024-07-01,water,wastewater_unmanaged,345.0,m3,0.708,244.26,Scope 3
+B0003,Bakery,2024-08,electricity,electricity_consumption,164.0,kWh,0.359,58.876,Scope 2
+B0003,Supermarket,2024-08,waste,food_composting,94.78,kg,0.2,18.956,Scope 3
+B0003,Supermarket,2024-08,waste,plastic_landfill,29.04,kg,2.5,72.6,Scope 3
+B0003,Supermarket,2024-08,waste,paper_landfill,19.62,kg,1.0,19.62,Scope 3
+B0003,Supermarket,2024-08,transport,car_petrol,255.2,km,0.225,57.42,Scope 3
+B0003,Supermarket,2024-08,transport,car_diesel,98.4,km,0.201,19.7784,Scope 3
+B0003,Supermarket,2024-08-01,water,water_supply,428.0,m3,0.344,147.232,Scope 3
+B0003,Supermarket,2024-08-01,water,wastewater_unmanaged,321.0,m3,0.708,227.268,Scope 3
+B0003,Bakery,2024-09,electricity,electricity_consumption,819.0,kWh,0.359,294.021,Scope 2
+B0003,Supermarket,2024-09,waste,food_composting,94.5,kg,0.2,18.9,Scope 3
+B0003,Supermarket,2024-09,waste,plastic_recycling,65.87,kg,-0.4,-26.348000000000003,Scope 3
+B0003,Supermarket,2024-09,waste,paper_recycling,80.78,kg,-0.4,-32.312000000000005,Scope 3
+B0003,Supermarket,2024-09,transport,delivery_van,154.3,km,0.315,48.6045,Scope 3
+B0003,Supermarket,2024-09,transport,bus,970.2,passenger-km,0.09,87.318,Scope 3
+B0003,Supermarket,2024-09-01,water,water_supply,448.0,m3,0.344,154.112,Scope 3
+B0003,Supermarket,2024-09-01,water,wastewater_unmanaged,336.0,m3,0.708,237.888,Scope 3
+B0003,Bakery,2024-10,electricity,electricity_consumption,524.0,kWh,0.359,188.116,Scope 2
+B0003,Supermarket,2024-10,waste,food_composting,42.05,kg,0.2,8.41,Scope 3
+B0003,Supermarket,2024-10,waste,plastic_landfill,47.92,kg,2.5,119.8,Scope 3
+B0003,Supermarket,2024-10,waste,paper_landfill,32.91,kg,1.0,32.91,Scope 3
+B0003,Supermarket,2024-10,transport,car_diesel,54.4,km,0.201,10.9344,Scope 3
+B0003,Supermarket,2024-10,transport,delivery_van,270.7,km,0.315,85.2705,Scope 3
+B0003,Supermarket,2024-10,transport,car_petrol,28.5,km,0.225,6.4125000000000005,Scope 3
+B0003,Supermarket,2024-10-01,water,water_supply,488.0,m3,0.344,167.872,Scope 3
+B0003,Supermarket,2024-10-01,water,wastewater_unmanaged,366.0,m3,0.708,259.128,Scope 3
+B0003,Bakery,2024-11,electricity,electricity_consumption,383.0,kWh,0.359,137.497,Scope 2
+B0003,Supermarket,2024-11,waste,food_composting,23.89,kg,0.2,4.7780000000000005,Scope 3
+B0003,Supermarket,2024-11,waste,plastic_recycling,87.38,kg,-0.4,-34.952,Scope 3
+B0003,Supermarket,2024-11,waste,paper_landfill,42.3,kg,1.0,42.3,Scope 3
+B0003,Supermarket,2024-11,transport,delivery_van,191.6,km,0.315,60.354,Scope 3
+B0003,Supermarket,2024-11,transport,motorbike,51.8,km,0.112,5.8016,Scope 3
+B0003,Supermarket,2024-11-01,water,water_supply,516.0,m3,0.344,177.504,Scope 3
+B0003,Supermarket,2024-11-01,water,wastewater_unmanaged,387.0,m3,0.708,273.996,Scope 3
+B0003,Bakery,2024-12,electricity,electricity_consumption,352.0,kWh,0.359,126.368,Scope 2
+B0003,Supermarket,2024-12,waste,food_composting,95.03,kg,0.2,19.006,Scope 3
+B0003,Supermarket,2024-12,waste,plastic_recycling,78.48,kg,-0.4,-31.392000000000003,Scope 3
+B0003,Supermarket,2024-12,waste,paper_landfill,59.94,kg,1.0,59.94,Scope 3
+B0003,Supermarket,2024-12,transport,car_diesel,290.6,km,0.201,58.41060000000001,Scope 3
+B0003,Supermarket,2024-12,transport,motorbike,291.8,km,0.112,32.6816,Scope 3
+B0003,Supermarket,2024-12,transport,car_petrol,218.3,km,0.225,49.11750000000001,Scope 3
+B0003,Supermarket,2024-12,transport,delivery_van,15.8,km,0.315,4.977,Scope 3
+B0003,Supermarket,2024-12-01,water,water_supply,481.0,m3,0.344,165.464,Scope 3
+B0003,Supermarket,2024-12-01,water,wastewater_unmanaged,360.75,m3,0.708,255.411,Scope 3
+B0004,Bakery,2024-01,electricity,electricity_consumption,405.0,kWh,0.359,145.395,Scope 2
+B0004,Pharmacy,2024-01,transport,car_petrol,107.7,km,0.225,24.2325,Scope 3
+B0004,Pharmacy,2024-01,transport,car_diesel,204.0,km,0.201,41.004000000000005,Scope 3
+B0004,FuelStation,2024-01,commute,motorbike,2800.0,km,0.112,313.6,Scope 3
+B0004,FuelStation,2024-01,commute,bus,6900.0,passenger-km,0.09,621.0,Scope 3
+B0004,Bakery,2024-02,electricity,electricity_consumption,948.0,kWh,0.359,340.332,Scope 2
+B0004,Pharmacy,2024-02,transport,bus,3342.0,passenger-km,0.09,300.78,Scope 3
+B0004,Pharmacy,2024-02,transport,car_diesel,118.6,km,0.201,23.8386,Scope 3
+B0004,Pharmacy,2024-02,transport,car_petrol,200.9,km,0.225,45.2025,Scope 3
+B0004,Pharmacy,2024-02,transport,delivery_van,285.5,km,0.315,89.9325,Scope 3
+B0004,Bakery,2024-03,electricity,electricity_consumption,940.0,kWh,0.359,337.46,Scope 2
+B0004,Pharmacy,2024-03,transport,motorbike,197.9,km,0.112,22.1648,Scope 3
+B0004,Pharmacy,2024-03,transport,delivery_van,18.8,km,0.315,5.922000000000001,Scope 3
+B0004,Bakery,2024-04,electricity,electricity_consumption,668.0,kWh,0.359,239.812,Scope 2
+B0004,Pharmacy,2024-04,transport,car_petrol,65.6,km,0.225,14.76,Scope 3
+B0004,Pharmacy,2024-04,transport,motorbike,36.5,km,0.112,4.088,Scope 3
+B0004,Pharmacy,2024-04,transport,delivery_van,94.7,km,0.315,29.8305,Scope 3
+B0004,Bakery,2024-05,electricity,electricity_consumption,291.0,kWh,0.359,104.469,Scope 2
+B0004,Pharmacy,2024-05,transport,car_petrol,44.9,km,0.225,10.1025,Scope 3
+B0004,Pharmacy,2024-05,transport,delivery_van,246.4,km,0.315,77.616,Scope 3
+B0004,Bakery,2024-06,electricity,electricity_consumption,174.0,kWh,0.359,62.466,Scope 2
+B0004,Pharmacy,2024-06,transport,motorbike,218.4,km,0.112,24.460800000000003,Scope 3
+B0004,Pharmacy,2024-06,transport,car_diesel,242.1,km,0.201,48.6621,Scope 3
+B0004,Bakery,2024-07,electricity,electricity_consumption,512.0,kWh,0.359,183.808,Scope 2
+B0004,Pharmacy,2024-07,transport,car_diesel,52.2,km,0.201,10.4922,Scope 3
+B0004,Pharmacy,2024-07,transport,bus,1357.1999999999998,passenger-km,0.09,122.148,Scope 3
+B0004,Pharmacy,2024-07,transport,delivery_van,59.2,km,0.315,18.648,Scope 3
+B0004,Bakery,2024-08,electricity,electricity_consumption,430.0,kWh,0.359,154.37,Scope 2
+B0004,Pharmacy,2024-08,transport,bus,53.4,passenger-km,0.09,4.806,Scope 3
+B0004,Pharmacy,2024-08,transport,car_diesel,235.6,km,0.201,47.3556,Scope 3
+B0004,Bakery,2024-09,electricity,electricity_consumption,490.0,kWh,0.359,175.91,Scope 2
+B0004,Pharmacy,2024-09,transport,car_petrol,111.6,km,0.225,25.11,Scope 3
+B0004,Pharmacy,2024-09,transport,car_diesel,77.1,km,0.201,15.4971,Scope 3
+B0004,Bakery,2024-10,electricity,electricity_consumption,479.0,kWh,0.359,171.961,Scope 2
+B0004,Pharmacy,2024-10,transport,car_diesel,181.1,km,0.201,36.4011,Scope 3
+B0004,Pharmacy,2024-10,transport,car_petrol,282.0,km,0.225,63.45,Scope 3
+B0004,Pharmacy,2024-10,transport,delivery_van,21.5,km,0.315,6.7725,Scope 3
+B0004,Bakery,2024-11,electricity,electricity_consumption,342.0,kWh,0.359,122.778,Scope 2
+B0004,Pharmacy,2024-11,transport,car_petrol,18.7,km,0.225,4.2075,Scope 3
+B0004,Pharmacy,2024-11,transport,bus,2327.4,passenger-km,0.09,209.466,Scope 3
+B0004,Bakery,2024-12,electricity,electricity_consumption,695.0,kWh,0.359,249.505,Scope 2
+B0004,Pharmacy,2024-12,transport,bus,1428.8,passenger-km,0.09,128.592,Scope 3
+B0004,Pharmacy,2024-12,transport,car_diesel,85.9,km,0.201,17.265900000000002,Scope 3
+B0004,Pharmacy,2024-12,transport,delivery_van,231.7,km,0.315,72.9855,Scope 3
+B0005,Bakery,2024-01,electricity,electricity_consumption,379.0,kWh,0.359,136.061,Scope 2
+B0005,FuelStation,2024-01,transport,bus,1457.5,passenger-km,0.09,131.175,Scope 3
+B0005,FuelStation,2024-01,transport,car_diesel,34.0,km,0.201,6.8340000000000005,Scope 3
+B0005,FuelStation,2024-01,transport,delivery_van,109.6,km,0.315,34.524,Scope 3
+B0005,Bakery,2024-02,electricity,electricity_consumption,314.0,kWh,0.359,112.726,Scope 2
+B0005,FuelStation,2024-02,transport,motorbike,187.2,km,0.112,20.9664,Scope 3
+B0005,FuelStation,2024-02,transport,car_diesel,34.0,km,0.201,6.8340000000000005,Scope 3
+B0005,Bakery,2024-03,electricity,electricity_consumption,813.0,kWh,0.359,291.867,Scope 2
+B0005,FuelStation,2024-03,transport,motorbike,172.7,km,0.112,19.3424,Scope 3
+B0005,FuelStation,2024-03,transport,car_petrol,84.1,km,0.225,18.9225,Scope 3
+B0005,FuelStation,2024-03,transport,bus,853.8000000000001,passenger-km,0.09,76.842,Scope 3
+B0005,Bakery,2024-04,electricity,electricity_consumption,526.0,kWh,0.359,188.834,Scope 2
+B0005,FuelStation,2024-04,transport,car_diesel,263.5,km,0.201,52.9635,Scope 3
+B0005,FuelStation,2024-04,transport,motorbike,145.4,km,0.112,16.2848,Scope 3
+B0005,FuelStation,2024-04,transport,bus,230.0,passenger-km,0.09,20.7,Scope 3
+B0005,Bakery,2024-05,electricity,electricity_consumption,361.0,kWh,0.359,129.599,Scope 2
+B0005,FuelStation,2024-05,transport,motorbike,106.2,km,0.112,11.8944,Scope 3
+B0005,FuelStation,2024-05,transport,bus,923.5,passenger-km,0.09,83.115,Scope 3
+B0005,FuelStation,2024-05,transport,delivery_van,118.7,km,0.315,37.3905,Scope 3
+B0005,FuelStation,2024-05,transport,car_petrol,258.0,km,0.225,58.05,Scope 3
+B0005,Bakery,2024-06,electricity,electricity_consumption,353.0,kWh,0.359,126.727,Scope 2
+B0005,FuelStation,2024-06,transport,car_petrol,97.1,km,0.225,21.8475,Scope 3
+B0005,FuelStation,2024-06,transport,delivery_van,267.6,km,0.315,84.29400000000001,Scope 3
+B0005,FuelStation,2024-06,transport,car_diesel,114.8,km,0.201,23.0748,Scope 3
+B0005,FuelStation,2024-06,transport,motorbike,103.1,km,0.112,11.5472,Scope 3
+B0005,Bakery,2024-07,electricity,electricity_consumption,664.0,kWh,0.359,238.376,Scope 2
+B0005,FuelStation,2024-07,transport,car_diesel,196.9,km,0.201,39.5769,Scope 3
+B0005,FuelStation,2024-07,transport,delivery_van,67.7,km,0.315,21.3255,Scope 3
+B0005,Bakery,2024-08,electricity,electricity_consumption,249.0,kWh,0.359,89.391,Scope 2
+B0005,FuelStation,2024-08,transport,motorbike,190.0,km,0.112,21.28,Scope 3
+B0005,FuelStation,2024-08,transport,car_petrol,136.5,km,0.225,30.7125,Scope 3
+B0005,Bakery,2024-09,electricity,electricity_consumption,647.0,kWh,0.359,232.273,Scope 2
+B0005,FuelStation,2024-09,transport,motorbike,181.7,km,0.112,20.3504,Scope 3
+B0005,FuelStation,2024-09,transport,bus,522.0,passenger-km,0.09,46.98,Scope 3
+B0005,FuelStation,2024-09,transport,car_diesel,166.9,km,0.201,33.5469,Scope 3
+B0005,Bakery,2024-10,electricity,electricity_consumption,651.0,kWh,0.359,233.709,Scope 2
+B0005,FuelStation,2024-10,transport,car_petrol,238.6,km,0.225,53.685,Scope 3
+B0005,FuelStation,2024-10,transport,delivery_van,283.0,km,0.315,89.145,Scope 3
+B0005,Bakery,2024-11,electricity,electricity_consumption,510.0,kWh,0.359,183.09,Scope 2
+B0005,FuelStation,2024-11,transport,bus,91.7,passenger-km,0.09,8.253,Scope 3
+B0005,FuelStation,2024-11,transport,motorbike,21.4,km,0.112,2.3968,Scope 3
+B0005,Bakery,2024-12,electricity,electricity_consumption,254.0,kWh,0.359,91.186,Scope 2
+B0005,FuelStation,2024-12,transport,bus,679.5,passenger-km,0.09,61.155,Scope 3
+B0005,FuelStation,2024-12,transport,motorbike,275.7,km,0.112,30.8784,Scope 3
+B0005,FuelStation,2024-12,transport,car_diesel,58.5,km,0.201,11.758500000000002,Scope 3
+B0005,FuelStation,2024-12,transport,car_petrol,275.6,km,0.225,62.010000000000005,Scope 3
+B0006,Bakery,2024-01,electricity,electricity_consumption,364.0,kWh,0.359,130.676,Scope 2
+B0006,Bakery,2024-02,electricity,electricity_consumption,444.0,kWh,0.359,159.396,Scope 2
+B0006,Bakery,2024-03,electricity,electricity_consumption,385.0,kWh,0.359,138.215,Scope 2
+B0006,Bakery,2024-04,electricity,electricity_consumption,817.0,kWh,0.359,293.303,Scope 2
+B0006,Bakery,2024-05,electricity,electricity_consumption,425.0,kWh,0.359,152.575,Scope 2
+B0006,Bakery,2024-06,electricity,electricity_consumption,395.0,kWh,0.359,141.805,Scope 2
+B0006,Bakery,2024-07,electricity,electricity_consumption,341.0,kWh,0.359,122.419,Scope 2
+B0006,Bakery,2024-08,electricity,electricity_consumption,213.0,kWh,0.359,76.467,Scope 2
+B0006,Bakery,2024-09,electricity,electricity_consumption,440.0,kWh,0.359,157.96,Scope 2
+B0006,Bakery,2024-10,electricity,electricity_consumption,316.0,kWh,0.359,113.444,Scope 2
+B0006,Bakery,2024-11,electricity,electricity_consumption,539.0,kWh,0.359,193.501,Scope 2
+B0006,Bakery,2024-12,electricity,electricity_consumption,393.0,kWh,0.359,141.087,Scope 2
+B0007,Bakery,2024-01,electricity,electricity_consumption,700.0,kWh,0.359,251.3,Scope 2
+B0007,Bakery,2024-02,electricity,electricity_consumption,538.0,kWh,0.359,193.142,Scope 2
+B0007,Bakery,2024-03,electricity,electricity_consumption,348.0,kWh,0.359,124.932,Scope 2
+B0007,Bakery,2024-04,electricity,electricity_consumption,208.0,kWh,0.359,74.672,Scope 2
+B0007,Bakery,2024-05,electricity,electricity_consumption,796.0,kWh,0.359,285.764,Scope 2
+B0007,Bakery,2024-06,electricity,electricity_consumption,203.0,kWh,0.359,72.877,Scope 2
+B0007,Bakery,2024-07,electricity,electricity_consumption,418.0,kWh,0.359,150.062,Scope 2
+B0007,Bakery,2024-08,electricity,electricity_consumption,650.0,kWh,0.359,233.35,Scope 2
+B0007,Bakery,2024-09,electricity,electricity_consumption,512.0,kWh,0.359,183.808,Scope 2
+B0007,Bakery,2024-10,electricity,electricity_consumption,197.0,kWh,0.359,70.723,Scope 2
+B0007,Bakery,2024-11,electricity,electricity_consumption,166.0,kWh,0.359,59.594,Scope 2
+B0007,Bakery,2024-12,electricity,electricity_consumption,478.0,kWh,0.359,171.602,Scope 2
+B0008,Bakery,2024-01,electricity,electricity_consumption,344.0,kWh,0.359,123.496,Scope 2
+B0008,Bakery,2024-02,electricity,electricity_consumption,325.0,kWh,0.359,116.675,Scope 2
+B0008,Bakery,2024-03,electricity,electricity_consumption,862.0,kWh,0.359,309.458,Scope 2
+B0008,Bakery,2024-04,electricity,electricity_consumption,526.0,kWh,0.359,188.834,Scope 2
+B0008,Bakery,2024-05,electricity,electricity_consumption,483.0,kWh,0.359,173.397,Scope 2
+B0008,Bakery,2024-06,electricity,electricity_consumption,660.0,kWh,0.359,236.94,Scope 2
+B0008,Bakery,2024-07,electricity,electricity_consumption,733.0,kWh,0.359,263.147,Scope 2
+B0008,Bakery,2024-08,electricity,electricity_consumption,582.0,kWh,0.359,208.938,Scope 2
+B0008,Bakery,2024-09,electricity,electricity_consumption,753.0,kWh,0.359,270.327,Scope 2
+B0008,Bakery,2024-10,electricity,electricity_consumption,320.0,kWh,0.359,114.88,Scope 2
+B0008,Bakery,2024-11,electricity,electricity_consumption,807.0,kWh,0.359,289.713,Scope 2
+B0008,Bakery,2024-12,electricity,electricity_consumption,663.0,kWh,0.359,238.017,Scope 2
+B0009,Bakery,2024-01,electricity,electricity_consumption,557.0,kWh,0.359,199.963,Scope 2
+B0009,Bakery,2024-02,electricity,electricity_consumption,318.0,kWh,0.359,114.162,Scope 2
+B0009,Bakery,2024-03,electricity,electricity_consumption,512.0,kWh,0.359,183.808,Scope 2
+B0009,Bakery,2024-04,electricity,electricity_consumption,569.0,kWh,0.359,204.271,Scope 2
+B0009,Bakery,2024-05,electricity,electricity_consumption,800.0,kWh,0.359,287.2,Scope 2
+B0009,Bakery,2024-06,electricity,electricity_consumption,124.0,kWh,0.359,44.516,Scope 2
+B0009,Bakery,2024-07,electricity,electricity_consumption,255.0,kWh,0.359,91.545,Scope 2
+B0009,Bakery,2024-08,electricity,electricity_consumption,585.0,kWh,0.359,210.015,Scope 2
+B0009,Bakery,2024-09,electricity,electricity_consumption,143.0,kWh,0.359,51.337,Scope 2
+B0009,Bakery,2024-10,electricity,electricity_consumption,247.0,kWh,0.359,88.673,Scope 2
+B0009,Bakery,2024-11,electricity,electricity_consumption,364.0,kWh,0.359,130.676,Scope 2
+B0009,Bakery,2024-12,electricity,electricity_consumption,760.0,kWh,0.359,272.84,Scope 2
+B001,Bakery,2024-01,fuel,diesel,302.0,liter,2.68,809.36,Scope 1
+B001,Bakery,2024-02,fuel,diesel,379.0,liter,2.68,1015.72,Scope 1
+B001,Bakery,2024-03,fuel,diesel,292.0,liter,2.68,782.5600000000001,Scope 1
+B0010,Bakery,2024-01,electricity,electricity_consumption,592.0,kWh,0.359,212.528,Scope 2
+B0010,Bakery,2024-02,electricity,electricity_consumption,142.0,kWh,0.359,50.978,Scope 2
+B0010,Bakery,2024-03,electricity,electricity_consumption,708.0,kWh,0.359,254.172,Scope 2
+B0010,Bakery,2024-04,electricity,electricity_consumption,334.0,kWh,0.359,119.906,Scope 2
+B0010,Bakery,2024-05,electricity,electricity_consumption,797.0,kWh,0.359,286.123,Scope 2
+B0010,Bakery,2024-06,electricity,electricity_consumption,321.0,kWh,0.359,115.239,Scope 2
+B0010,Bakery,2024-07,electricity,electricity_consumption,507.0,kWh,0.359,182.013,Scope 2
+B0010,Bakery,2024-08,electricity,electricity_consumption,436.0,kWh,0.359,156.524,Scope 2
+B0010,Bakery,2024-09,electricity,electricity_consumption,505.0,kWh,0.359,181.295,Scope 2
+B0010,Bakery,2024-10,electricity,electricity_consumption,509.0,kWh,0.359,182.731,Scope 2
+B0010,Bakery,2024-11,electricity,electricity_consumption,546.0,kWh,0.359,196.014,Scope 2
+B0010,Bakery,2024-12,electricity,electricity_consumption,834.0,kWh,0.359,299.406,Scope 2
+B0011,Supermarket,2024-01,electricity,electricity_consumption,655.0,kWh,0.359,235.145,Scope 2
+B0011,Supermarket,2024-02,electricity,electricity_consumption,1961.0,kWh,0.359,703.999,Scope 2
+B0011,Supermarket,2024-03,electricity,electricity_consumption,2109.0,kWh,0.359,757.131,Scope 2
+B0011,Supermarket,2024-04,electricity,electricity_consumption,1292.0,kWh,0.359,463.828,Scope 2
+B0011,Supermarket,2024-05,electricity,electricity_consumption,631.0,kWh,0.359,226.529,Scope 2
+B0011,Supermarket,2024-06,electricity,electricity_consumption,663.0,kWh,0.359,238.017,Scope 2
+B0011,Supermarket,2024-07,electricity,electricity_consumption,1323.0,kWh,0.359,474.957,Scope 2
+B0011,Supermarket,2024-08,electricity,electricity_consumption,1580.0,kWh,0.359,567.22,Scope 2
+B0011,Supermarket,2024-09,electricity,electricity_consumption,533.0,kWh,0.359,191.347,Scope 2
+B0011,Supermarket,2024-10,electricity,electricity_consumption,1598.0,kWh,0.359,573.682,Scope 2
+B0011,Supermarket,2024-11,electricity,electricity_consumption,708.0,kWh,0.359,254.172,Scope 2
+B0011,Supermarket,2024-12,electricity,electricity_consumption,2132.0,kWh,0.359,765.388,Scope 2
+B0012,Supermarket,2024-01,electricity,electricity_consumption,1464.0,kWh,0.359,525.576,Scope 2
+B0012,Supermarket,2024-02,electricity,electricity_consumption,315.0,kWh,0.359,113.085,Scope 2
+B0012,Supermarket,2024-03,electricity,electricity_consumption,1289.0,kWh,0.359,462.751,Scope 2
+B0012,Supermarket,2024-04,electricity,electricity_consumption,1586.0,kWh,0.359,569.374,Scope 2
+B0012,Supermarket,2024-05,electricity,electricity_consumption,1993.0,kWh,0.359,715.487,Scope 2
+B0012,Supermarket,2024-06,electricity,electricity_consumption,677.0,kWh,0.359,243.043,Scope 2
+B0012,Supermarket,2024-07,electricity,electricity_consumption,667.0,kWh,0.359,239.453,Scope 2
+B0012,Supermarket,2024-08,electricity,electricity_consumption,922.0,kWh,0.359,330.998,Scope 2
+B0012,Supermarket,2024-09,electricity,electricity_consumption,1659.0,kWh,0.359,595.581,Scope 2
+B0012,Supermarket,2024-10,electricity,electricity_consumption,1522.0,kWh,0.359,546.398,Scope 2
+B0012,Supermarket,2024-11,electricity,electricity_consumption,2057.0,kWh,0.359,738.463,Scope 2
+B0012,Supermarket,2024-12,electricity,electricity_consumption,1690.0,kWh,0.359,606.71,Scope 2
+B0013,Supermarket,2024-01,electricity,electricity_consumption,2493.0,kWh,0.359,894.987,Scope 2
+B0013,Supermarket,2024-02,electricity,electricity_consumption,2843.0,kWh,0.359,1020.637,Scope 2
+B0013,Supermarket,2024-03,electricity,electricity_consumption,555.0,kWh,0.359,199.245,Scope 2
+B0013,Supermarket,2024-04,electricity,electricity_consumption,688.0,kWh,0.359,246.992,Scope 2
+B0013,Supermarket,2024-05,electricity,electricity_consumption,1859.0,kWh,0.359,667.381,Scope 2
+B0013,Supermarket,2024-06,electricity,electricity_consumption,1724.0,kWh,0.359,618.916,Scope 2
+B0013,Supermarket,2024-07,electricity,electricity_consumption,619.0,kWh,0.359,222.221,Scope 2
+B0013,Supermarket,2024-08,electricity,electricity_consumption,861.0,kWh,0.359,309.099,Scope 2
+B0013,Supermarket,2024-09,electricity,electricity_consumption,1876.0,kWh,0.359,673.484,Scope 2
+B0013,Supermarket,2024-10,electricity,electricity_consumption,2069.0,kWh,0.359,742.771,Scope 2
+B0013,Supermarket,2024-11,electricity,electricity_consumption,1163.0,kWh,0.359,417.517,Scope 2
+B0013,Supermarket,2024-12,electricity,electricity_consumption,1233.0,kWh,0.359,442.647,Scope 2
+B0014,Supermarket,2024-01,electricity,electricity_consumption,1471.0,kWh,0.359,528.089,Scope 2
+B0014,Supermarket,2024-02,electricity,electricity_consumption,2624.0,kWh,0.359,942.016,Scope 2
+B0014,Supermarket,2024-03,electricity,electricity_consumption,2531.0,kWh,0.359,908.629,Scope 2
+B0014,Supermarket,2024-04,electricity,electricity_consumption,1346.0,kWh,0.359,483.214,Scope 2
+B0014,Supermarket,2024-05,electricity,electricity_consumption,1788.0,kWh,0.359,641.892,Scope 2
+B0014,Supermarket,2024-06,electricity,electricity_consumption,1139.0,kWh,0.359,408.901,Scope 2
+B0014,Supermarket,2024-07,electricity,electricity_consumption,1959.0,kWh,0.359,703.281,Scope 2
+B0014,Supermarket,2024-08,electricity,electricity_consumption,941.0,kWh,0.359,337.819,Scope 2
+B0014,Supermarket,2024-09,electricity,electricity_consumption,577.0,kWh,0.359,207.143,Scope 2
+B0014,Supermarket,2024-10,electricity,electricity_consumption,2325.0,kWh,0.359,834.675,Scope 2
+B0014,Supermarket,2024-11,electricity,electricity_consumption,1859.0,kWh,0.359,667.381,Scope 2
+B0014,Supermarket,2024-12,electricity,electricity_consumption,1769.0,kWh,0.359,635.071,Scope 2
+B0015,Supermarket,2024-01,electricity,electricity_consumption,523.0,kWh,0.359,187.757,Scope 2
+B0015,Supermarket,2024-02,electricity,electricity_consumption,2059.0,kWh,0.359,739.181,Scope 2
+B0015,Supermarket,2024-03,electricity,electricity_consumption,945.0,kWh,0.359,339.255,Scope 2
+B0015,Supermarket,2024-04,electricity,electricity_consumption,1558.0,kWh,0.359,559.322,Scope 2
+B0015,Supermarket,2024-05,electricity,electricity_consumption,2574.0,kWh,0.359,924.066,Scope 2
+B0015,Supermarket,2024-06,electricity,electricity_consumption,1353.0,kWh,0.359,485.727,Scope 2
+B0015,Supermarket,2024-07,electricity,electricity_consumption,915.0,kWh,0.359,328.485,Scope 2
+B0015,Supermarket,2024-08,electricity,electricity_consumption,1616.0,kWh,0.359,580.144,Scope 2
+B0015,Supermarket,2024-09,electricity,electricity_consumption,1035.0,kWh,0.359,371.565,Scope 2
+B0015,Supermarket,2024-10,electricity,electricity_consumption,813.0,kWh,0.359,291.867,Scope 2
+B0015,Supermarket,2024-11,electricity,electricity_consumption,1721.0,kWh,0.359,617.839,Scope 2
+B0015,Supermarket,2024-12,electricity,electricity_consumption,1265.0,kWh,0.359,454.135,Scope 2
+B0016,Supermarket,2024-01,electricity,electricity_consumption,1870.0,kWh,0.359,671.33,Scope 2
+B0016,Supermarket,2024-02,electricity,electricity_consumption,2633.0,kWh,0.359,945.247,Scope 2
+B0016,Supermarket,2024-03,electricity,electricity_consumption,1192.0,kWh,0.359,427.928,Scope 2
+B0016,Supermarket,2024-04,electricity,electricity_consumption,510.0,kWh,0.359,183.09,Scope 2
+B0016,Supermarket,2024-05,electricity,electricity_consumption,809.0,kWh,0.359,290.431,Scope 2
+B0016,Supermarket,2024-06,electricity,electricity_consumption,792.0,kWh,0.359,284.328,Scope 2
+B0016,Supermarket,2024-07,electricity,electricity_consumption,983.0,kWh,0.359,352.897,Scope 2
+B0016,Supermarket,2024-08,electricity,electricity_consumption,2437.0,kWh,0.359,874.883,Scope 2
+B0016,Supermarket,2024-09,electricity,electricity_consumption,842.0,kWh,0.359,302.278,Scope 2
+B0016,Supermarket,2024-10,electricity,electricity_consumption,2098.0,kWh,0.359,753.182,Scope 2
+B0016,Supermarket,2024-11,electricity,electricity_consumption,1999.0,kWh,0.359,717.641,Scope 2
+B0016,Supermarket,2024-12,electricity,electricity_consumption,1007.0,kWh,0.359,361.513,Scope 2
+B0017,Supermarket,2024-01,electricity,electricity_consumption,1051.0,kWh,0.359,377.309,Scope 2
+B0017,Supermarket,2024-02,electricity,electricity_consumption,835.0,kWh,0.359,299.765,Scope 2
+B0017,Supermarket,2024-03,electricity,electricity_consumption,1938.0,kWh,0.359,695.742,Scope 2
+B0017,Supermarket,2024-04,electricity,electricity_consumption,1439.0,kWh,0.359,516.601,Scope 2
+B0017,Supermarket,2024-05,electricity,electricity_consumption,1634.0,kWh,0.359,586.606,Scope 2
+B0017,Supermarket,2024-06,electricity,electricity_consumption,2087.0,kWh,0.359,749.233,Scope 2
+B0017,Supermarket,2024-07,electricity,electricity_consumption,434.0,kWh,0.359,155.806,Scope 2
+B0017,Supermarket,2024-08,electricity,electricity_consumption,639.0,kWh,0.359,229.401,Scope 2
+B0017,Supermarket,2024-09,electricity,electricity_consumption,1097.0,kWh,0.359,393.823,Scope 2
+B0017,Supermarket,2024-10,electricity,electricity_consumption,2143.0,kWh,0.359,769.337,Scope 2
+B0017,Supermarket,2024-11,electricity,electricity_consumption,1702.0,kWh,0.359,611.018,Scope 2
+B0017,Supermarket,2024-12,electricity,electricity_consumption,801.0,kWh,0.359,287.559,Scope 2
+B0018,Supermarket,2024-01,electricity,electricity_consumption,2167.0,kWh,0.359,777.953,Scope 2
+B0018,Supermarket,2024-02,electricity,electricity_consumption,1221.0,kWh,0.359,438.339,Scope 2
+B0018,Supermarket,2024-03,electricity,electricity_consumption,2496.0,kWh,0.359,896.064,Scope 2
+B0018,Supermarket,2024-04,electricity,electricity_consumption,1524.0,kWh,0.359,547.116,Scope 2
+B0018,Supermarket,2024-05,electricity,electricity_consumption,474.0,kWh,0.359,170.166,Scope 2
+B0018,Supermarket,2024-06,electricity,electricity_consumption,2176.0,kWh,0.359,781.184,Scope 2
+B0018,Supermarket,2024-07,electricity,electricity_consumption,2089.0,kWh,0.359,749.951,Scope 2
+B0018,Supermarket,2024-08,electricity,electricity_consumption,1533.0,kWh,0.359,550.347,Scope 2
+B0018,Supermarket,2024-09,electricity,electricity_consumption,1670.0,kWh,0.359,599.53,Scope 2
+B0018,Supermarket,2024-10,electricity,electricity_consumption,1003.0,kWh,0.359,360.077,Scope 2
+B0018,Supermarket,2024-11,electricity,electricity_consumption,458.0,kWh,0.359,164.422,Scope 2
+B0018,Supermarket,2024-12,electricity,electricity_consumption,1865.0,kWh,0.359,669.535,Scope 2
+B0019,Supermarket,2024-01,electricity,electricity_consumption,681.0,kWh,0.359,244.479,Scope 2
+B0019,Supermarket,2024-02,electricity,electricity_consumption,1416.0,kWh,0.359,508.344,Scope 2
+B0019,Supermarket,2024-03,electricity,electricity_consumption,1061.0,kWh,0.359,380.899,Scope 2
+B0019,Supermarket,2024-04,electricity,electricity_consumption,464.0,kWh,0.359,166.576,Scope 2
+B0019,Supermarket,2024-05,electricity,electricity_consumption,1901.0,kWh,0.359,682.459,Scope 2
+B0019,Supermarket,2024-06,electricity,electricity_consumption,2321.0,kWh,0.359,833.239,Scope 2
+B0019,Supermarket,2024-07,electricity,electricity_consumption,891.0,kWh,0.359,319.869,Scope 2
+B0019,Supermarket,2024-08,electricity,electricity_consumption,1630.0,kWh,0.359,585.17,Scope 2
+B0019,Supermarket,2024-09,electricity,electricity_consumption,769.0,kWh,0.359,276.071,Scope 2
+B0019,Supermarket,2024-10,electricity,electricity_consumption,2078.0,kWh,0.359,746.002,Scope 2
+B0019,Supermarket,2024-11,electricity,electricity_consumption,1235.0,kWh,0.359,443.365,Scope 2
+B0019,Supermarket,2024-12,electricity,electricity_consumption,507.0,kWh,0.359,182.013,Scope 2
+B002,Restaurant,2024-01,fuel,LPG,74.0,kg,3.01,222.74,Scope 1
+B002,Restaurant,2024-01,fuel,petrol,27.0,liter,2.33,62.91,Scope 1
+B002,Restaurant,2024-02,fuel,LPG,120.0,kg,3.01,361.2,Scope 1
+B002,Restaurant,2024-02,fuel,petrol,40.0,liter,2.33,93.2,Scope 1
+B002,Restaurant,2024-03,fuel,LPG,98.0,kg,3.01,294.98,Scope 1
+B002,Restaurant,2024-03,fuel,petrol,38.0,liter,2.33,88.54,Scope 1
+B0020,Supermarket,2024-01,electricity,electricity_consumption,1146.0,kWh,0.359,411.414,Scope 2
+B0020,Supermarket,2024-02,electricity,electricity_consumption,682.0,kWh,0.359,244.838,Scope 2
+B0020,Supermarket,2024-03,electricity,electricity_consumption,1263.0,kWh,0.359,453.417,Scope 2
+B0020,Supermarket,2024-04,electricity,electricity_consumption,1992.0,kWh,0.359,715.128,Scope 2
+B0020,Supermarket,2024-05,electricity,electricity_consumption,572.0,kWh,0.359,205.348,Scope 2
+B0020,Supermarket,2024-06,electricity,electricity_consumption,2137.0,kWh,0.359,767.183,Scope 2
+B0020,Supermarket,2024-07,electricity,electricity_consumption,1931.0,kWh,0.359,693.229,Scope 2
+B0020,Supermarket,2024-08,electricity,electricity_consumption,2277.0,kWh,0.359,817.443,Scope 2
+B0020,Supermarket,2024-09,electricity,electricity_consumption,2054.0,kWh,0.359,737.386,Scope 2
+B0020,Supermarket,2024-10,electricity,electricity_consumption,1129.0,kWh,0.359,405.311,Scope 2
+B0020,Supermarket,2024-11,electricity,electricity_consumption,1516.0,kWh,0.359,544.244,Scope 2
+B0020,Supermarket,2024-12,electricity,electricity_consumption,656.0,kWh,0.359,235.504,Scope 2
+B0021,SmallShop,2024-01,electricity,electricity_consumption,144.0,kWh,0.359,51.696,Scope 2
+B0021,SmallShop,2024-02,electricity,electricity_consumption,397.0,kWh,0.359,142.523,Scope 2
+B0021,SmallShop,2024-03,electricity,electricity_consumption,173.0,kWh,0.359,62.107,Scope 2
+B0021,SmallShop,2024-04,electricity,electricity_consumption,326.0,kWh,0.359,117.034,Scope 2
+B0021,SmallShop,2024-05,electricity,electricity_consumption,230.0,kWh,0.359,82.57,Scope 2
+B0021,SmallShop,2024-06,electricity,electricity_consumption,188.0,kWh,0.359,67.492,Scope 2
+B0021,SmallShop,2024-07,electricity,electricity_consumption,209.0,kWh,0.359,75.031,Scope 2
+B0021,SmallShop,2024-08,electricity,electricity_consumption,243.0,kWh,0.359,87.237,Scope 2
+B0021,SmallShop,2024-09,electricity,electricity_consumption,372.0,kWh,0.359,133.548,Scope 2
+B0021,SmallShop,2024-10,electricity,electricity_consumption,235.0,kWh,0.359,84.365,Scope 2
+B0021,SmallShop,2024-11,electricity,electricity_consumption,329.0,kWh,0.359,118.111,Scope 2
+B0021,SmallShop,2024-12,electricity,electricity_consumption,252.0,kWh,0.359,90.468,Scope 2
+B0022,SmallShop,2024-01,electricity,electricity_consumption,400.0,kWh,0.359,143.6,Scope 2
+B0022,SmallShop,2024-02,electricity,electricity_consumption,73.0,kWh,0.359,26.207,Scope 2
+B0022,SmallShop,2024-03,electricity,electricity_consumption,151.0,kWh,0.359,54.209,Scope 2
+B0022,SmallShop,2024-04,electricity,electricity_consumption,127.0,kWh,0.359,45.593,Scope 2
+B0022,SmallShop,2024-05,electricity,electricity_consumption,357.0,kWh,0.359,128.163,Scope 2
+B0022,SmallShop,2024-06,electricity,electricity_consumption,139.0,kWh,0.359,49.901,Scope 2
+B0022,SmallShop,2024-07,electricity,electricity_consumption,151.0,kWh,0.359,54.209,Scope 2
+B0022,SmallShop,2024-08,electricity,electricity_consumption,73.0,kWh,0.359,26.207,Scope 2
+B0022,SmallShop,2024-09,electricity,electricity_consumption,153.0,kWh,0.359,54.927,Scope 2
+B0022,SmallShop,2024-10,electricity,electricity_consumption,133.0,kWh,0.359,47.747,Scope 2
+B0022,SmallShop,2024-11,electricity,electricity_consumption,364.0,kWh,0.359,130.676,Scope 2
+B0022,SmallShop,2024-12,electricity,electricity_consumption,57.0,kWh,0.359,20.463,Scope 2
+B0023,SmallShop,2024-01,electricity,electricity_consumption,340.0,kWh,0.359,122.06,Scope 2
+B0023,SmallShop,2024-02,electricity,electricity_consumption,159.0,kWh,0.359,57.081,Scope 2
+B0023,SmallShop,2024-03,electricity,electricity_consumption,122.0,kWh,0.359,43.798,Scope 2
+B0023,SmallShop,2024-04,electricity,electricity_consumption,262.0,kWh,0.359,94.058,Scope 2
+B0023,SmallShop,2024-05,electricity,electricity_consumption,72.0,kWh,0.359,25.848,Scope 2
+B0023,SmallShop,2024-06,electricity,electricity_consumption,101.0,kWh,0.359,36.259,Scope 2
+B0023,SmallShop,2024-07,electricity,electricity_consumption,167.0,kWh,0.359,59.953,Scope 2
+B0023,SmallShop,2024-08,electricity,electricity_consumption,116.0,kWh,0.359,41.644,Scope 2
+B0023,SmallShop,2024-09,electricity,electricity_consumption,257.0,kWh,0.359,92.263,Scope 2
+B0023,SmallShop,2024-10,electricity,electricity_consumption,136.0,kWh,0.359,48.824,Scope 2
+B0023,SmallShop,2024-11,electricity,electricity_consumption,189.0,kWh,0.359,67.851,Scope 2
+B0023,SmallShop,2024-12,electricity,electricity_consumption,219.0,kWh,0.359,78.621,Scope 2
+B0024,SmallShop,2024-01,electricity,electricity_consumption,84.0,kWh,0.359,30.156,Scope 2
+B0024,SmallShop,2024-02,electricity,electricity_consumption,104.0,kWh,0.359,37.336,Scope 2
+B0024,SmallShop,2024-03,electricity,electricity_consumption,70.0,kWh,0.359,25.13,Scope 2
+B0024,SmallShop,2024-04,electricity,electricity_consumption,431.0,kWh,0.359,154.729,Scope 2
+B0024,SmallShop,2024-05,electricity,electricity_consumption,64.0,kWh,0.359,22.976,Scope 2
+B0024,SmallShop,2024-06,electricity,electricity_consumption,139.0,kWh,0.359,49.901,Scope 2
+B0024,SmallShop,2024-07,electricity,electricity_consumption,189.0,kWh,0.359,67.851,Scope 2
+B0024,SmallShop,2024-08,electricity,electricity_consumption,93.0,kWh,0.359,33.387,Scope 2
+B0024,SmallShop,2024-09,electricity,electricity_consumption,170.0,kWh,0.359,61.03,Scope 2
+B0024,SmallShop,2024-10,electricity,electricity_consumption,161.0,kWh,0.359,57.799,Scope 2
+B0024,SmallShop,2024-11,electricity,electricity_consumption,232.0,kWh,0.359,83.288,Scope 2
+B0024,SmallShop,2024-12,electricity,electricity_consumption,171.0,kWh,0.359,61.389,Scope 2
+B0025,SmallShop,2024-01,electricity,electricity_consumption,66.0,kWh,0.359,23.694,Scope 2
+B0025,SmallShop,2024-02,electricity,electricity_consumption,260.0,kWh,0.359,93.34,Scope 2
+B0025,SmallShop,2024-03,electricity,electricity_consumption,365.0,kWh,0.359,131.035,Scope 2
+B0025,SmallShop,2024-04,electricity,electricity_consumption,225.0,kWh,0.359,80.775,Scope 2
+B0025,SmallShop,2024-05,electricity,electricity_consumption,115.0,kWh,0.359,41.285,Scope 2
+B0025,SmallShop,2024-06,electricity,electricity_consumption,258.0,kWh,0.359,92.622,Scope 2
+B0025,SmallShop,2024-07,electricity,electricity_consumption,193.0,kWh,0.359,69.287,Scope 2
+B0025,SmallShop,2024-08,electricity,electricity_consumption,159.0,kWh,0.359,57.081,Scope 2
+B0025,SmallShop,2024-09,electricity,electricity_consumption,183.0,kWh,0.359,65.697,Scope 2
+B0025,SmallShop,2024-10,electricity,electricity_consumption,224.0,kWh,0.359,80.416,Scope 2
+B0025,SmallShop,2024-11,electricity,electricity_consumption,332.0,kWh,0.359,119.188,Scope 2
+B0025,SmallShop,2024-12,electricity,electricity_consumption,348.0,kWh,0.359,124.932,Scope 2
+B0026,SmallShop,2024-01,electricity,electricity_consumption,225.0,kWh,0.359,80.775,Scope 2
+B0026,SmallShop,2024-02,electricity,electricity_consumption,169.0,kWh,0.359,60.671,Scope 2
+B0026,SmallShop,2024-03,electricity,electricity_consumption,155.0,kWh,0.359,55.645,Scope 2
+B0026,SmallShop,2024-04,electricity,electricity_consumption,119.0,kWh,0.359,42.721,Scope 2
+B0026,SmallShop,2024-05,electricity,electricity_consumption,217.0,kWh,0.359,77.903,Scope 2
+B0026,SmallShop,2024-06,electricity,electricity_consumption,332.0,kWh,0.359,119.188,Scope 2
+B0026,SmallShop,2024-07,electricity,electricity_consumption,293.0,kWh,0.359,105.187,Scope 2
+B0026,SmallShop,2024-08,electricity,electricity_consumption,111.0,kWh,0.359,39.849,Scope 2
+B0026,SmallShop,2024-09,electricity,electricity_consumption,172.0,kWh,0.359,61.748,Scope 2
+B0026,SmallShop,2024-10,electricity,electricity_consumption,174.0,kWh,0.359,62.466,Scope 2
+B0026,SmallShop,2024-11,electricity,electricity_consumption,165.0,kWh,0.359,59.235,Scope 2
+B0026,SmallShop,2024-12,electricity,electricity_consumption,214.0,kWh,0.359,76.826,Scope 2
+B0027,SmallShop,2024-01,electricity,electricity_consumption,277.0,kWh,0.359,99.443,Scope 2
+B0027,SmallShop,2024-02,electricity,electricity_consumption,347.0,kWh,0.359,124.573,Scope 2
+B0027,SmallShop,2024-03,electricity,electricity_consumption,121.0,kWh,0.359,43.439,Scope 2
+B0027,SmallShop,2024-04,electricity,electricity_consumption,253.0,kWh,0.359,90.827,Scope 2
+B0027,SmallShop,2024-05,electricity,electricity_consumption,126.0,kWh,0.359,45.234,Scope 2
+B0027,SmallShop,2024-06,electricity,electricity_consumption,111.0,kWh,0.359,39.849,Scope 2
+B0027,SmallShop,2024-07,electricity,electricity_consumption,71.0,kWh,0.359,25.489,Scope 2
+B0027,SmallShop,2024-08,electricity,electricity_consumption,215.0,kWh,0.359,77.185,Scope 2
+B0027,SmallShop,2024-09,electricity,electricity_consumption,189.0,kWh,0.359,67.851,Scope 2
+B0027,SmallShop,2024-10,electricity,electricity_consumption,261.0,kWh,0.359,93.699,Scope 2
+B0027,SmallShop,2024-11,electricity,electricity_consumption,179.0,kWh,0.359,64.261,Scope 2
+B0027,SmallShop,2024-12,electricity,electricity_consumption,101.0,kWh,0.359,36.259,Scope 2
+B0028,SmallShop,2024-01,electricity,electricity_consumption,280.0,kWh,0.359,100.52,Scope 2
+B0028,SmallShop,2024-02,electricity,electricity_consumption,255.0,kWh,0.359,91.545,Scope 2
+B0028,SmallShop,2024-03,electricity,electricity_consumption,107.0,kWh,0.359,38.413,Scope 2
+B0028,SmallShop,2024-04,electricity,electricity_consumption,117.0,kWh,0.359,42.003,Scope 2
+B0028,SmallShop,2024-05,electricity,electricity_consumption,189.0,kWh,0.359,67.851,Scope 2
+B0028,SmallShop,2024-06,electricity,electricity_consumption,167.0,kWh,0.359,59.953,Scope 2
+B0028,SmallShop,2024-07,electricity,electricity_consumption,369.0,kWh,0.359,132.471,Scope 2
+B0028,SmallShop,2024-08,electricity,electricity_consumption,308.0,kWh,0.359,110.572,Scope 2
+B0028,SmallShop,2024-09,electricity,electricity_consumption,367.0,kWh,0.359,131.753,Scope 2
+B0028,SmallShop,2024-10,electricity,electricity_consumption,255.0,kWh,0.359,91.545,Scope 2
+B0028,SmallShop,2024-11,electricity,electricity_consumption,320.0,kWh,0.359,114.88,Scope 2
+B0028,SmallShop,2024-12,electricity,electricity_consumption,363.0,kWh,0.359,130.317,Scope 2
+B0029,SmallShop,2024-01,electricity,electricity_consumption,91.0,kWh,0.359,32.669,Scope 2
+B0029,SmallShop,2024-02,electricity,electricity_consumption,157.0,kWh,0.359,56.363,Scope 2
+B0029,SmallShop,2024-03,electricity,electricity_consumption,171.0,kWh,0.359,61.389,Scope 2
+B0029,SmallShop,2024-04,electricity,electricity_consumption,152.0,kWh,0.359,54.568,Scope 2
+B0029,SmallShop,2024-05,electricity,electricity_consumption,106.0,kWh,0.359,38.054,Scope 2
+B0029,SmallShop,2024-06,electricity,electricity_consumption,170.0,kWh,0.359,61.03,Scope 2
+B0029,SmallShop,2024-07,electricity,electricity_consumption,167.0,kWh,0.359,59.953,Scope 2
+B0029,SmallShop,2024-08,electricity,electricity_consumption,164.0,kWh,0.359,58.876,Scope 2
+B0029,SmallShop,2024-09,electricity,electricity_consumption,137.0,kWh,0.359,49.183,Scope 2
+B0029,SmallShop,2024-10,electricity,electricity_consumption,301.0,kWh,0.359,108.059,Scope 2
+B0029,SmallShop,2024-11,electricity,electricity_consumption,145.0,kWh,0.359,52.055,Scope 2
+B0029,SmallShop,2024-12,electricity,electricity_consumption,421.0,kWh,0.359,151.139,Scope 2
+B003,FuelStation,2024-01,fuel,diesel,814.0,liter,2.68,2181.52,Scope 1
+B003,FuelStation,2024-01,fuel,petrol,730.0,liter,2.33,1700.9,Scope 1
+B003,FuelStation,2024-02,fuel,diesel,1058.0,liter,2.68,2835.44,Scope 1
+B003,FuelStation,2024-02,fuel,petrol,487.0,liter,2.33,1134.71,Scope 1
+B003,FuelStation,2024-03,fuel,diesel,972.0,liter,2.68,2604.96,Scope 1
+B003,FuelStation,2024-03,fuel,petrol,499.0,liter,2.33,1162.67,Scope 1
+B0030,ISP,2024-01,electricity,electricity_consumption,262.36,kWh,0.359,94.188,Scope 2
+B0030,ISP,2024-01,water,water_supply,58.03,m3,0.344,19.9618,Scope 3
+B0030,ISP,2024-01,waste,solid_waste,123.2,kg,1.5,184.7991,Scope 3
+B0030,ISP,2024-01,electricity,air_conditioning,1397.99,kWh,0.359,501.8776,Scope 2
+B0030,ISP,2024-02,electricity,electricity_consumption,196.81,kWh,0.359,70.6532,Scope 2
+B0030,ISP,2024-02,water,water_supply,26.24,m3,0.344,9.0265,Scope 3
+B0030,ISP,2024-02,waste,solid_waste,55.81,kg,1.5,83.7125,Scope 3
+B0030,ISP,2024-02,electricity,air_conditioning,1799.26,kWh,0.359,645.9359,Scope 2
+B0030,ISP,2024-03,electricity,electricity_consumption,330.33,kWh,0.359,118.5901,Scope 2
+B0030,ISP,2024-03,water,water_supply,48.32,m3,0.344,16.6231,Scope 3
+B0030,ISP,2024-03,waste,solid_waste,52.06,kg,1.5,78.0877,Scope 3
+B0030,ISP,2024-03,electricity,air_conditioning,1954.86,kWh,0.359,701.7965,Scope 2
+B0030,ISP,2024-04,electricity,electricity_consumption,399.73,kWh,0.359,143.5041,Scope 2
+B0030,ISP,2024-04,water,water_supply,28.49,m3,0.344,9.8018,Scope 3
+B0030,ISP,2024-04,waste,solid_waste,68.18,kg,1.5,102.2737,Scope 3
+B0030,ISP,2024-04,electricity,air_conditioning,775.11,kWh,0.359,278.2633,Scope 2
+B0030,ISP,2024-05,electricity,electricity_consumption,241.27,kWh,0.359,86.6169,Scope 2
+B0030,ISP,2024-05,water,water_supply,40.99,m3,0.344,14.1006,Scope 3
+B0030,ISP,2024-05,waste,solid_waste,93.19,kg,1.5,139.7918,Scope 3
+B0030,ISP,2024-05,electricity,air_conditioning,936.84,kWh,0.359,336.3269,Scope 2
+B0030,ISP,2024-06,electricity,electricity_consumption,333.56,kWh,0.359,119.7466,Scope 2
+B0030,ISP,2024-06,water,water_supply,25.58,m3,0.344,8.7994,Scope 3
+B0030,ISP,2024-06,waste,solid_waste,79.21,kg,1.5,118.8217,Scope 3
+B0030,ISP,2024-06,electricity,air_conditioning,1049.54,kWh,0.359,376.7859,Scope 2
+B0030,ISP,2024-07,electricity,electricity_consumption,286.82,kWh,0.359,102.9687,Scope 2
+B0030,ISP,2024-07,water,water_supply,51.41,m3,0.344,17.684,Scope 3
+B0030,ISP,2024-07,waste,solid_waste,69.97,kg,1.5,104.9511,Scope 3
+B0030,ISP,2024-07,electricity,air_conditioning,1271.35,kWh,0.359,456.4152,Scope 2
+B0030,ISP,2024-08,electricity,electricity_consumption,327.72,kWh,0.359,117.653,Scope 2
+B0030,ISP,2024-08,water,water_supply,21.86,m3,0.344,7.5192,Scope 3
+B0030,ISP,2024-08,waste,solid_waste,110.75,kg,1.5,166.1317,Scope 3
+B0030,ISP,2024-08,electricity,air_conditioning,755.79,kWh,0.359,271.3272,Scope 2
+B0030,ISP,2024-09,electricity,electricity_consumption,169.52,kWh,0.359,60.8561,Scope 2
+B0030,ISP,2024-09,water,water_supply,57.96,m3,0.344,19.9367,Scope 3
+B0030,ISP,2024-09,waste,solid_waste,146.56,kg,1.5,219.8448,Scope 3
+B0030,ISP,2024-09,electricity,air_conditioning,1712.6,kWh,0.359,614.822,Scope 2
+B0030,ISP,2024-10,electricity,electricity_consumption,241.38,kWh,0.359,86.6569,Scope 2
+B0030,ISP,2024-10,water,water_supply,23.91,m3,0.344,8.224,Scope 3
+B0030,ISP,2024-10,waste,solid_waste,118.42,kg,1.5,177.635,Scope 3
+B0030,ISP,2024-10,electricity,air_conditioning,1160.23,kWh,0.359,416.5221,Scope 2
+B0030,ISP,2024-11,electricity,electricity_consumption,186.61,kWh,0.359,66.9935,Scope 2
+B0030,ISP,2024-11,water,water_supply,39.81,m3,0.344,13.6936,Scope 3
+B0030,ISP,2024-11,waste,solid_waste,53.44,kg,1.5,80.1583,Scope 3
+B0030,ISP,2024-11,electricity,air_conditioning,1863.98,kWh,0.359,669.169,Scope 2
+B0030,ISP,2024-12,electricity,electricity_consumption,227.63,kWh,0.359,81.7206,Scope 2
+B0030,ISP,2024-12,water,water_supply,46.5,m3,0.344,15.9963,Scope 3
+B0030,ISP,2024-12,waste,solid_waste,81.17,kg,1.5,121.7567,Scope 3
+B0030,ISP,2024-12,electricity,air_conditioning,1280.1,kWh,0.359,459.5566,Scope 2
+B0031,Hardware Store,2024-01,electricity,electricity_consumption,314.01,kWh,0.359,112.7307,Scope 2
+B0031,Hardware Store,2024-01,water,water_supply,27.39,m3,0.344,9.4236,Scope 3
+B0031,Hardware Store,2024-01,waste,solid_waste,146.96,kg,1.5,220.4377,Scope 3
+B0031,Hardware Store,2024-02,electricity,electricity_consumption,382.54,kWh,0.359,137.3318,Scope 2
+B0031,Hardware Store,2024-02,water,water_supply,57.58,m3,0.344,19.8075,Scope 3
+B0031,Hardware Store,2024-02,waste,solid_waste,139.48,kg,1.5,209.2241,Scope 3
+B0031,Hardware Store,2024-03,electricity,electricity_consumption,329.37,kWh,0.359,118.2438,Scope 2
+B0031,Hardware Store,2024-03,water,water_supply,56.87,m3,0.344,19.565,Scope 3
+B0031,Hardware Store,2024-03,waste,solid_waste,58.85,kg,1.5,88.2739,Scope 3
+B0031,Hardware Store,2024-04,electricity,electricity_consumption,208.79,kWh,0.359,74.9574,Scope 2
+B0031,Hardware Store,2024-04,water,water_supply,21.81,m3,0.344,7.5023,Scope 3
+B0031,Hardware Store,2024-04,waste,solid_waste,82.53,kg,1.5,123.7995,Scope 3
+B0031,Hardware Store,2024-05,electricity,electricity_consumption,266.6,kWh,0.359,95.7105,Scope 2
+B0031,Hardware Store,2024-05,water,water_supply,30.85,m3,0.344,10.6138,Scope 3
+B0031,Hardware Store,2024-05,waste,solid_waste,132.87,kg,1.5,199.3106,Scope 3
+B0031,Hardware Store,2024-06,electricity,electricity_consumption,257.03,kWh,0.359,92.2723,Scope 2
+B0031,Hardware Store,2024-06,water,water_supply,31.24,m3,0.344,10.7457,Scope 3
+B0031,Hardware Store,2024-06,waste,solid_waste,104.27,kg,1.5,156.4044,Scope 3
+B0031,Hardware Store,2024-07,electricity,electricity_consumption,192.28,kWh,0.359,69.0275,Scope 2
+B0031,Hardware Store,2024-07,water,water_supply,52.09,m3,0.344,17.9182,Scope 3
+B0031,Hardware Store,2024-07,waste,solid_waste,57.46,kg,1.5,86.1826,Scope 3
+B0031,Hardware Store,2024-08,electricity,electricity_consumption,446.07,kWh,0.359,160.1377,Scope 2
+B0031,Hardware Store,2024-08,water,water_supply,50.89,m3,0.344,17.5061,Scope 3
+B0031,Hardware Store,2024-08,waste,solid_waste,69.87,kg,1.5,104.8074,Scope 3
+B0031,Hardware Store,2024-09,electricity,electricity_consumption,151.66,kWh,0.359,54.4447,Scope 2
+B0031,Hardware Store,2024-09,water,water_supply,52.62,m3,0.344,18.1007,Scope 3
+B0031,Hardware Store,2024-09,waste,solid_waste,120.69,kg,1.5,181.0286,Scope 3
+B0031,Hardware Store,2024-10,electricity,electricity_consumption,368.7,kWh,0.359,132.3641,Scope 2
+B0031,Hardware Store,2024-10,water,water_supply,50.85,m3,0.344,17.4927,Scope 3
+B0031,Hardware Store,2024-10,waste,solid_waste,57.4,kg,1.5,86.1067,Scope 3
+B0031,Hardware Store,2024-11,electricity,electricity_consumption,257.54,kWh,0.359,92.4568,Scope 2
+B0031,Hardware Store,2024-11,water,water_supply,24.63,m3,0.344,8.4744,Scope 3
+B0031,Hardware Store,2024-11,waste,solid_waste,136.31,kg,1.5,204.4655,Scope 3
+B0031,Hardware Store,2024-12,electricity,electricity_consumption,336.99,kWh,0.359,120.9792,Scope 2
+B0031,Hardware Store,2024-12,water,water_supply,33.24,m3,0.344,11.4332,Scope 3
+B0031,Hardware Store,2024-12,waste,solid_waste,56.36,kg,1.5,84.5338,Scope 3
+B0032,Consulting,2024-01,electricity,electricity_consumption,243.29,kWh,0.359,87.3428,Scope 2
+B0032,Consulting,2024-01,water,water_supply,33.01,m3,0.344,11.3545,Scope 3
+B0032,Consulting,2024-01,waste,solid_waste,122.96,kg,1.5,184.4409,Scope 3
+B0032,Consulting,2024-02,electricity,electricity_consumption,341.27,kWh,0.359,122.5149,Scope 2
+B0032,Consulting,2024-02,water,water_supply,55.49,m3,0.344,19.088,Scope 3
+B0032,Consulting,2024-02,waste,solid_waste,97.22,kg,1.5,145.8322,Scope 3
+B0032,Consulting,2024-03,electricity,electricity_consumption,185.88,kWh,0.359,66.7303,Scope 2
+B0032,Consulting,2024-03,water,water_supply,48.53,m3,0.344,16.6942,Scope 3
+B0032,Consulting,2024-03,waste,solid_waste,126.08,kg,1.5,189.1178,Scope 3
+B0032,Consulting,2024-04,electricity,electricity_consumption,318.38,kWh,0.359,114.2996,Scope 2
+B0032,Consulting,2024-04,water,water_supply,50.84,m3,0.344,17.4885,Scope 3
+B0032,Consulting,2024-04,waste,solid_waste,99.38,kg,1.5,149.0693,Scope 3
+B0032,Consulting,2024-05,electricity,electricity_consumption,306.82,kWh,0.359,110.1483,Scope 2
+B0032,Consulting,2024-05,water,water_supply,37.1,m3,0.344,12.763,Scope 3
+B0032,Consulting,2024-05,waste,solid_waste,52.54,kg,1.5,78.8129,Scope 3
+B0032,Consulting,2024-06,electricity,electricity_consumption,182.37,kWh,0.359,65.4699,Scope 2
+B0032,Consulting,2024-06,water,water_supply,21.26,m3,0.344,7.3125,Scope 3
+B0032,Consulting,2024-06,waste,solid_waste,113.64,kg,1.5,170.4616,Scope 3
+B0032,Consulting,2024-07,electricity,electricity_consumption,244.31,kWh,0.359,87.7061,Scope 2
+B0032,Consulting,2024-07,water,water_supply,40.34,m3,0.344,13.8779,Scope 3
+B0032,Consulting,2024-07,waste,solid_waste,140.76,kg,1.5,211.135,Scope 3
+B0032,Consulting,2024-08,electricity,electricity_consumption,224.79,kWh,0.359,80.6988,Scope 2
+B0032,Consulting,2024-08,water,water_supply,36.42,m3,0.344,12.5269,Scope 3
+B0032,Consulting,2024-08,waste,solid_waste,125.56,kg,1.5,188.3327,Scope 3
+B0032,Consulting,2024-09,electricity,electricity_consumption,218.64,kWh,0.359,78.4916,Scope 2
+B0032,Consulting,2024-09,water,water_supply,23.08,m3,0.344,7.9392,Scope 3
+B0032,Consulting,2024-09,waste,solid_waste,78.98,kg,1.5,118.4627,Scope 3
+B0032,Consulting,2024-10,electricity,electricity_consumption,198.37,kWh,0.359,71.2135,Scope 2
+B0032,Consulting,2024-10,water,water_supply,57.19,m3,0.344,19.6726,Scope 3
+B0032,Consulting,2024-10,waste,solid_waste,130.81,kg,1.5,196.2181,Scope 3
+B0032,Consulting,2024-11,electricity,electricity_consumption,340.02,kWh,0.359,122.0676,Scope 2
+B0032,Consulting,2024-11,water,water_supply,54.86,m3,0.344,18.8713,Scope 3
+B0032,Consulting,2024-11,waste,solid_waste,130.37,kg,1.5,195.5508,Scope 3
+B0032,Consulting,2024-12,electricity,electricity_consumption,205.97,kWh,0.359,73.9436,Scope 2
+B0032,Consulting,2024-12,water,water_supply,55.7,m3,0.344,19.1616,Scope 3
+B0032,Consulting,2024-12,waste,solid_waste,103.93,kg,1.5,155.9013,Scope 3
+B0033,Pharmacy,2024-01,electricity,electricity_consumption,392.23,kWh,0.359,140.8113,Scope 2
+B0033,Pharmacy,2024-01,water,water_supply,55.84,m3,0.344,19.2102,Scope 3
+B0033,Pharmacy,2024-01,waste,solid_waste,81.8,kg,1.5,122.7005,Scope 3
+B0033,Pharmacy,2024-02,electricity,electricity_consumption,183.02,kWh,0.359,65.7026,Scope 2
+B0033,Pharmacy,2024-02,water,water_supply,29.12,m3,0.344,10.0164,Scope 3
+B0033,Pharmacy,2024-02,waste,solid_waste,92.71,kg,1.5,139.0662,Scope 3
+B0033,Pharmacy,2024-03,electricity,electricity_consumption,395.4,kWh,0.359,141.9502,Scope 2
+B0033,Pharmacy,2024-03,water,water_supply,54.43,m3,0.344,18.7237,Scope 3
+B0033,Pharmacy,2024-03,waste,solid_waste,50.7,kg,1.5,76.0428,Scope 3
+B0033,Pharmacy,2024-04,electricity,electricity_consumption,303.22,kWh,0.359,108.8575,Scope 2
+B0033,Pharmacy,2024-04,water,water_supply,36.7,m3,0.344,12.6236,Scope 3
+B0033,Pharmacy,2024-04,waste,solid_waste,72.21,kg,1.5,108.3162,Scope 3
+B0033,Pharmacy,2024-05,electricity,electricity_consumption,185.96,kWh,0.359,66.7595,Scope 2
+B0033,Pharmacy,2024-05,water,water_supply,33.5,m3,0.344,11.5256,Scope 3
+B0033,Pharmacy,2024-05,waste,solid_waste,144.29,kg,1.5,216.4365,Scope 3
+B0033,Pharmacy,2024-06,electricity,electricity_consumption,246.96,kWh,0.359,88.659,Scope 2
+B0033,Pharmacy,2024-06,water,water_supply,40.75,m3,0.344,14.0186,Scope 3
+B0033,Pharmacy,2024-06,waste,solid_waste,120.3,kg,1.5,180.4528,Scope 3
+B0033,Pharmacy,2024-07,electricity,electricity_consumption,259.09,kWh,0.359,93.0129,Scope 2
+B0033,Pharmacy,2024-07,water,water_supply,58.87,m3,0.344,20.2517,Scope 3
+B0033,Pharmacy,2024-07,waste,solid_waste,146.24,kg,1.5,219.3671,Scope 3
+B0033,Pharmacy,2024-08,electricity,electricity_consumption,225.53,kWh,0.359,80.967,Scope 2
+B0033,Pharmacy,2024-08,water,water_supply,39.89,m3,0.344,13.7221,Scope 3
+B0033,Pharmacy,2024-08,waste,solid_waste,80.09,kg,1.5,120.1317,Scope 3
+B0033,Pharmacy,2024-09,electricity,electricity_consumption,235.45,kWh,0.359,84.5273,Scope 2
+B0033,Pharmacy,2024-09,water,water_supply,21.48,m3,0.344,7.3876,Scope 3
+B0033,Pharmacy,2024-09,waste,solid_waste,110.96,kg,1.5,166.4347,Scope 3
+B0033,Pharmacy,2024-10,electricity,electricity_consumption,300.8,kWh,0.359,107.9885,Scope 2
+B0033,Pharmacy,2024-10,water,water_supply,22.06,m3,0.344,7.5883,Scope 3
+B0033,Pharmacy,2024-10,waste,solid_waste,77.86,kg,1.5,116.797,Scope 3
+B0033,Pharmacy,2024-11,electricity,electricity_consumption,422.48,kWh,0.359,151.6702,Scope 2
+B0033,Pharmacy,2024-11,water,water_supply,29.58,m3,0.344,10.1764,Scope 3
+B0033,Pharmacy,2024-11,waste,solid_waste,64.49,kg,1.5,96.7342,Scope 3
+B0033,Pharmacy,2024-12,electricity,electricity_consumption,296.84,kWh,0.359,106.5641,Scope 2
+B0033,Pharmacy,2024-12,water,water_supply,59.43,m3,0.344,20.4426,Scope 3
+B0033,Pharmacy,2024-12,waste,solid_waste,74.21,kg,1.5,111.3083,Scope 3
+B0034,Gym,2024-01,electricity,electricity_consumption,351.64,kWh,0.359,126.239,Scope 2
+B0034,Gym,2024-01,water,water_supply,50.46,m3,0.344,17.3599,Scope 3
+B0034,Gym,2024-01,waste,solid_waste,73.76,kg,1.5,110.6456,Scope 3
+B0034,Gym,2024-02,electricity,electricity_consumption,368.46,kWh,0.359,132.2789,Scope 2
+B0034,Gym,2024-02,water,water_supply,34.71,m3,0.344,11.9407,Scope 3
+B0034,Gym,2024-02,waste,solid_waste,113.23,kg,1.5,169.8459,Scope 3
+B0034,Gym,2024-03,electricity,electricity_consumption,340.06,kWh,0.359,122.0811,Scope 2
+B0034,Gym,2024-03,water,water_supply,41.43,m3,0.344,14.2523,Scope 3
+B0034,Gym,2024-03,waste,solid_waste,59.03,kg,1.5,88.5435,Scope 3
+B0034,Gym,2024-04,electricity,electricity_consumption,400.59,kWh,0.359,143.8121,Scope 2
+B0034,Gym,2024-04,water,water_supply,32.83,m3,0.344,11.2939,Scope 3
+B0034,Gym,2024-04,waste,solid_waste,68.65,kg,1.5,102.9778,Scope 3
+B0034,Gym,2024-05,electricity,electricity_consumption,162.23,kWh,0.359,58.2415,Scope 2
+B0034,Gym,2024-05,water,water_supply,43.64,m3,0.344,15.0107,Scope 3
+B0034,Gym,2024-05,waste,solid_waste,117.76,kg,1.5,176.6347,Scope 3
+B0034,Gym,2024-06,electricity,electricity_consumption,154.98,kWh,0.359,55.6365,Scope 2
+B0034,Gym,2024-06,water,water_supply,40.48,m3,0.344,13.9264,Scope 3
+B0034,Gym,2024-06,waste,solid_waste,72.65,kg,1.5,108.9744,Scope 3
+B0034,Gym,2024-07,electricity,electricity_consumption,343.55,kWh,0.359,123.3351,Scope 2
+B0034,Gym,2024-07,water,water_supply,26.97,m3,0.344,9.2793,Scope 3
+B0034,Gym,2024-07,waste,solid_waste,119.09,kg,1.5,178.6407,Scope 3
+B0034,Gym,2024-08,electricity,electricity_consumption,266.02,kWh,0.359,95.5014,Scope 2
+B0034,Gym,2024-08,water,water_supply,57.47,m3,0.344,19.7694,Scope 3
+B0034,Gym,2024-08,waste,solid_waste,63.75,kg,1.5,95.6281,Scope 3
+B0034,Gym,2024-09,electricity,electricity_consumption,252.32,kWh,0.359,90.5828,Scope 2
+B0034,Gym,2024-09,water,water_supply,24.54,m3,0.344,8.4414,Scope 3
+B0034,Gym,2024-09,waste,solid_waste,142.47,kg,1.5,213.704,Scope 3
+B0034,Gym,2024-10,electricity,electricity_consumption,413.2,kWh,0.359,148.3394,Scope 2
+B0034,Gym,2024-10,water,water_supply,30.32,m3,0.344,10.4293,Scope 3
+B0034,Gym,2024-10,waste,solid_waste,116.0,kg,1.5,173.9976,Scope 3
+B0034,Gym,2024-11,electricity,electricity_consumption,395.17,kWh,0.359,141.8648,Scope 2
+B0034,Gym,2024-11,water,water_supply,42.21,m3,0.344,14.5196,Scope 3
+B0034,Gym,2024-11,waste,solid_waste,102.97,kg,1.5,154.4476,Scope 3
+B0034,Gym,2024-12,electricity,electricity_consumption,222.56,kWh,0.359,79.8975,Scope 2
+B0034,Gym,2024-12,water,water_supply,23.72,m3,0.344,8.1611,Scope 3
+B0034,Gym,2024-12,waste,solid_waste,139.72,kg,1.5,209.5824,Scope 3
+B0035,Call Center,2024-01,electricity,electricity_consumption,420.13,kWh,0.359,150.825,Scope 2
+B0035,Call Center,2024-01,water,water_supply,45.32,m3,0.344,15.5915,Scope 3
+B0035,Call Center,2024-01,waste,solid_waste,83.9,kg,1.5,125.8545,Scope 3
+B0035,Call Center,2024-02,electricity,electricity_consumption,254.76,kWh,0.359,91.4599,Scope 2
+B0035,Call Center,2024-02,water,water_supply,49.04,m3,0.344,16.8692,Scope 3
+B0035,Call Center,2024-02,waste,solid_waste,139.71,kg,1.5,209.5665,Scope 3
+B0035,Call Center,2024-03,electricity,electricity_consumption,416.13,kWh,0.359,149.3892,Scope 2
+B0035,Call Center,2024-03,water,water_supply,51.2,m3,0.344,17.6111,Scope 3
+B0035,Call Center,2024-03,waste,solid_waste,114.2,kg,1.5,171.3047,Scope 3
+B0035,Call Center,2024-04,electricity,electricity_consumption,175.24,kWh,0.359,62.9119,Scope 2
+B0035,Call Center,2024-04,water,water_supply,26.47,m3,0.344,9.104,Scope 3
+B0035,Call Center,2024-04,waste,solid_waste,139.86,kg,1.5,209.7831,Scope 3
+B0035,Call Center,2024-05,electricity,electricity_consumption,331.93,kWh,0.359,119.1624,Scope 2
+B0035,Call Center,2024-05,water,water_supply,20.37,m3,0.344,7.0066,Scope 3
+B0035,Call Center,2024-05,waste,solid_waste,60.15,kg,1.5,90.2207,Scope 3
+B0035,Call Center,2024-06,electricity,electricity_consumption,349.05,kWh,0.359,125.3091,Scope 2
+B0035,Call Center,2024-06,water,water_supply,20.2,m3,0.344,6.9496,Scope 3
+B0035,Call Center,2024-06,waste,solid_waste,66.08,kg,1.5,99.1212,Scope 3
+B0035,Call Center,2024-07,electricity,electricity_consumption,314.62,kWh,0.359,112.9486,Scope 2
+B0035,Call Center,2024-07,water,water_supply,47.68,m3,0.344,16.4005,Scope 3
+B0035,Call Center,2024-07,waste,solid_waste,115.2,kg,1.5,172.7942,Scope 3
+B0035,Call Center,2024-08,electricity,electricity_consumption,217.28,kWh,0.359,78.0038,Scope 2
+B0035,Call Center,2024-08,water,water_supply,48.49,m3,0.344,16.6796,Scope 3
+B0035,Call Center,2024-08,waste,solid_waste,73.72,kg,1.5,110.5874,Scope 3
+B0035,Call Center,2024-09,electricity,electricity_consumption,247.62,kWh,0.359,88.8955,Scope 2
+B0035,Call Center,2024-09,water,water_supply,49.86,m3,0.344,17.1517,Scope 3
+B0035,Call Center,2024-09,waste,solid_waste,114.96,kg,1.5,172.4449,Scope 3
+B0035,Call Center,2024-10,electricity,electricity_consumption,404.77,kWh,0.359,145.3114,Scope 2
+B0035,Call Center,2024-10,water,water_supply,46.3,m3,0.344,15.9288,Scope 3
+B0035,Call Center,2024-10,waste,solid_waste,106.83,kg,1.5,160.2463,Scope 3
+B0035,Call Center,2024-11,electricity,electricity_consumption,178.1,kWh,0.359,63.9388,Scope 2
+B0035,Call Center,2024-11,water,water_supply,34.71,m3,0.344,11.9398,Scope 3
+B0035,Call Center,2024-11,waste,solid_waste,76.52,kg,1.5,114.7804,Scope 3
+B0035,Call Center,2024-12,electricity,electricity_consumption,223.2,kWh,0.359,80.1277,Scope 2
+B0035,Call Center,2024-12,water,water_supply,58.92,m3,0.344,20.2686,Scope 3
+B0035,Call Center,2024-12,waste,solid_waste,89.31,kg,1.5,133.9647,Scope 3
+B0036,E-Commerce,2024-01,electricity,electricity_consumption,417.61,kWh,0.359,149.9234,Scope 2
+B0036,E-Commerce,2024-01,water,water_supply,45.25,m3,0.344,15.5645,Scope 3
+B0036,E-Commerce,2024-01,waste,solid_waste,129.48,kg,1.5,194.2217,Scope 3
+B0036,E-Commerce,2024-01,fuel,diesel_generator,200.53,L,2.67,535.4082,Scope 1
+B0036,E-Commerce,2024-01,transport,delivery_transport,1365.36,km,0.21,286.7247,Scope 3
+B0036,E-Commerce,2024-02,electricity,electricity_consumption,297.76,kWh,0.359,106.8942,Scope 2
+B0036,E-Commerce,2024-02,water,water_supply,27.81,m3,0.344,9.5665,Scope 3
+B0036,E-Commerce,2024-02,waste,solid_waste,122.25,kg,1.5,183.3678,Scope 3
+B0036,E-Commerce,2024-02,fuel,diesel_generator,156.15,L,2.67,416.9324,Scope 1
+B0036,E-Commerce,2024-02,transport,delivery_transport,536.47,km,0.21,112.6595,Scope 3
+B0036,E-Commerce,2024-03,electricity,electricity_consumption,343.64,kWh,0.359,123.3674,Scope 2
+B0036,E-Commerce,2024-03,water,water_supply,27.08,m3,0.344,9.317,Scope 3
+B0036,E-Commerce,2024-03,waste,solid_waste,144.05,kg,1.5,216.0688,Scope 3
+B0036,E-Commerce,2024-03,fuel,diesel_generator,290.79,L,2.67,776.3979,Scope 1
+B0036,E-Commerce,2024-03,transport,delivery_transport,1872.3,km,0.21,393.1823,Scope 3
+B0036,E-Commerce,2024-04,electricity,electricity_consumption,261.05,kWh,0.359,93.7161,Scope 2
+B0036,E-Commerce,2024-04,water,water_supply,20.62,m3,0.344,7.0927,Scope 3
+B0036,E-Commerce,2024-04,waste,solid_waste,142.83,kg,1.5,214.2478,Scope 3
+B0036,E-Commerce,2024-04,fuel,diesel_generator,185.64,L,2.67,495.6503,Scope 1
+B0036,E-Commerce,2024-04,transport,delivery_transport,1949.98,km,0.21,409.4963,Scope 3
+B0036,E-Commerce,2024-05,electricity,electricity_consumption,439.09,kWh,0.359,157.6319,Scope 2
+B0036,E-Commerce,2024-05,water,water_supply,54.12,m3,0.344,18.6174,Scope 3
+B0036,E-Commerce,2024-05,waste,solid_waste,79.44,kg,1.5,119.1673,Scope 3
+B0036,E-Commerce,2024-05,fuel,diesel_generator,177.02,L,2.67,472.6422,Scope 1
+B0036,E-Commerce,2024-05,transport,delivery_transport,1776.71,km,0.21,373.1081,Scope 3
+B0036,E-Commerce,2024-06,electricity,electricity_consumption,245.08,kWh,0.359,87.9825,Scope 2
+B0036,E-Commerce,2024-06,water,water_supply,26.78,m3,0.344,9.2122,Scope 3
+B0036,E-Commerce,2024-06,waste,solid_waste,105.68,kg,1.5,158.5202,Scope 3
+B0036,E-Commerce,2024-06,fuel,diesel_generator,287.23,L,2.67,766.9066,Scope 1
+B0036,E-Commerce,2024-06,transport,delivery_transport,1544.04,km,0.21,324.2494,Scope 3
+B0036,E-Commerce,2024-07,electricity,electricity_consumption,321.02,kWh,0.359,115.2456,Scope 2
+B0036,E-Commerce,2024-07,water,water_supply,23.89,m3,0.344,8.2171,Scope 3
+B0036,E-Commerce,2024-07,waste,solid_waste,111.5,kg,1.5,167.2511,Scope 3
+B0036,E-Commerce,2024-07,fuel,diesel_generator,298.01,L,2.67,795.6888,Scope 1
+B0036,E-Commerce,2024-07,transport,delivery_transport,710.13,km,0.21,149.1265,Scope 3
+B0036,E-Commerce,2024-08,electricity,electricity_consumption,305.5,kWh,0.359,109.6741,Scope 2
+B0036,E-Commerce,2024-08,water,water_supply,55.09,m3,0.344,18.9527,Scope 3
+B0036,E-Commerce,2024-08,waste,solid_waste,124.08,kg,1.5,186.1153,Scope 3
+B0036,E-Commerce,2024-08,fuel,diesel_generator,239.4,L,2.67,639.2064,Scope 1
+B0036,E-Commerce,2024-08,transport,delivery_transport,1553.73,km,0.21,326.2825,Scope 3
+B0036,E-Commerce,2024-09,electricity,electricity_consumption,257.85,kWh,0.359,92.5672,Scope 2
+B0036,E-Commerce,2024-09,water,water_supply,31.74,m3,0.344,10.9198,Scope 3
+B0036,E-Commerce,2024-09,waste,solid_waste,130.94,kg,1.5,196.4042,Scope 3
+B0036,E-Commerce,2024-09,fuel,diesel_generator,262.02,L,2.67,699.6006,Scope 1
+B0036,E-Commerce,2024-09,transport,delivery_transport,1800.61,km,0.21,378.1278,Scope 3
+B0036,E-Commerce,2024-10,electricity,electricity_consumption,423.97,kWh,0.359,152.206,Scope 2
+B0036,E-Commerce,2024-10,water,water_supply,40.45,m3,0.344,13.9161,Scope 3
+B0036,E-Commerce,2024-10,waste,solid_waste,100.15,kg,1.5,150.2274,Scope 3
+B0036,E-Commerce,2024-10,fuel,diesel_generator,259.66,L,2.67,693.2896,Scope 1
+B0036,E-Commerce,2024-10,transport,delivery_transport,1474.95,km,0.21,309.7386,Scope 3
+B0036,E-Commerce,2024-11,electricity,electricity_consumption,360.59,kWh,0.359,129.4518,Scope 2
+B0036,E-Commerce,2024-11,water,water_supply,51.83,m3,0.344,17.8301,Scope 3
+B0036,E-Commerce,2024-11,waste,solid_waste,139.0,kg,1.5,208.5008,Scope 3
+B0036,E-Commerce,2024-11,fuel,diesel_generator,167.6,L,2.67,447.4894,Scope 1
+B0036,E-Commerce,2024-11,transport,delivery_transport,1063.37,km,0.21,223.3086,Scope 3
+B0036,E-Commerce,2024-12,electricity,electricity_consumption,178.19,kWh,0.359,63.9719,Scope 2
+B0036,E-Commerce,2024-12,water,water_supply,43.13,m3,0.344,14.8371,Scope 3
+B0036,E-Commerce,2024-12,waste,solid_waste,53.59,kg,1.5,80.3913,Scope 3
+B0036,E-Commerce,2024-12,fuel,diesel_generator,193.12,L,2.67,515.6293,Scope 1
+B0036,E-Commerce,2024-12,transport,delivery_transport,1313.97,km,0.21,275.9331,Scope 3
+B0037,Solar Installer,2024-01,electricity,electricity_consumption,235.96,kWh,0.359,84.7105,Scope 2
+B0037,Solar Installer,2024-01,water,water_supply,43.63,m3,0.344,15.0099,Scope 3
+B0037,Solar Installer,2024-01,waste,solid_waste,53.05,kg,1.5,79.575,Scope 3
+B0037,Solar Installer,2024-02,electricity,electricity_consumption,161.2,kWh,0.359,57.8724,Scope 2
+B0037,Solar Installer,2024-02,water,water_supply,52.9,m3,0.344,18.199,Scope 3
+B0037,Solar Installer,2024-02,waste,solid_waste,86.02,kg,1.5,129.0286,Scope 3
+B0037,Solar Installer,2024-03,electricity,electricity_consumption,188.12,kWh,0.359,67.5344,Scope 2
+B0037,Solar Installer,2024-03,water,water_supply,40.89,m3,0.344,14.0661,Scope 3
+B0037,Solar Installer,2024-03,waste,solid_waste,127.0,kg,1.5,190.499,Scope 3
+B0037,Solar Installer,2024-04,electricity,electricity_consumption,214.75,kWh,0.359,77.0939,Scope 2
+B0037,Solar Installer,2024-04,water,water_supply,44.92,m3,0.344,15.451,Scope 3
+B0037,Solar Installer,2024-04,waste,solid_waste,58.53,kg,1.5,87.8021,Scope 3
+B0037,Solar Installer,2024-05,electricity,electricity_consumption,165.5,kWh,0.359,59.4161,Scope 2
+B0037,Solar Installer,2024-05,water,water_supply,41.25,m3,0.344,14.1914,Scope 3
+B0037,Solar Installer,2024-05,waste,solid_waste,104.06,kg,1.5,156.0953,Scope 3
+B0037,Solar Installer,2024-06,electricity,electricity_consumption,341.23,kWh,0.359,122.5012,Scope 2
+B0037,Solar Installer,2024-06,water,water_supply,49.04,m3,0.344,16.871,Scope 3
+B0037,Solar Installer,2024-06,waste,solid_waste,147.59,kg,1.5,221.3778,Scope 3
+B0037,Solar Installer,2024-07,electricity,electricity_consumption,304.89,kWh,0.359,109.4555,Scope 2
+B0037,Solar Installer,2024-07,water,water_supply,32.92,m3,0.344,11.3239,Scope 3
+B0037,Solar Installer,2024-07,waste,solid_waste,129.52,kg,1.5,194.2779,Scope 3
+B0037,Solar Installer,2024-08,electricity,electricity_consumption,231.25,kWh,0.359,83.0186,Scope 2
+B0037,Solar Installer,2024-08,water,water_supply,37.56,m3,0.344,12.9202,Scope 3
+B0037,Solar Installer,2024-08,waste,solid_waste,57.85,kg,1.5,86.7685,Scope 3
+B0037,Solar Installer,2024-09,electricity,electricity_consumption,157.61,kWh,0.359,56.5803,Scope 2
+B0037,Solar Installer,2024-09,water,water_supply,58.51,m3,0.344,20.126,Scope 3
+B0037,Solar Installer,2024-09,waste,solid_waste,133.6,kg,1.5,200.397,Scope 3
+B0037,Solar Installer,2024-10,electricity,electricity_consumption,358.79,kWh,0.359,128.8064,Scope 2
+B0037,Solar Installer,2024-10,water,water_supply,36.36,m3,0.344,12.5072,Scope 3
+B0037,Solar Installer,2024-10,waste,solid_waste,67.33,kg,1.5,100.9941,Scope 3
+B0037,Solar Installer,2024-11,electricity,electricity_consumption,196.93,kWh,0.359,70.6983,Scope 2
+B0037,Solar Installer,2024-11,water,water_supply,30.01,m3,0.344,10.3233,Scope 3
+B0037,Solar Installer,2024-11,waste,solid_waste,104.92,kg,1.5,157.384,Scope 3
+B0037,Solar Installer,2024-12,electricity,electricity_consumption,364.38,kWh,0.359,130.812,Scope 2
+B0037,Solar Installer,2024-12,water,water_supply,46.41,m3,0.344,15.9643,Scope 3
+B0037,Solar Installer,2024-12,waste,solid_waste,77.99,kg,1.5,116.9901,Scope 3
+B0038,Real Estate,2024-01,electricity,electricity_consumption,436.46,kWh,0.359,156.689,Scope 2
+B0038,Real Estate,2024-01,water,water_supply,49.52,m3,0.344,17.0335,Scope 3
+B0038,Real Estate,2024-01,waste,solid_waste,105.44,kg,1.5,158.1531,Scope 3
+B0038,Real Estate,2024-02,electricity,electricity_consumption,333.52,kWh,0.359,119.7323,Scope 2
+B0038,Real Estate,2024-02,water,water_supply,36.78,m3,0.344,12.6537,Scope 3
+B0038,Real Estate,2024-02,waste,solid_waste,74.77,kg,1.5,112.1596,Scope 3
+B0038,Real Estate,2024-03,electricity,electricity_consumption,256.79,kWh,0.359,92.1883,Scope 2
+B0038,Real Estate,2024-03,water,water_supply,50.31,m3,0.344,17.308,Scope 3
+B0038,Real Estate,2024-03,waste,solid_waste,51.44,kg,1.5,77.159,Scope 3
+B0038,Real Estate,2024-04,electricity,electricity_consumption,184.82,kWh,0.359,66.351,Scope 2
+B0038,Real Estate,2024-04,water,water_supply,21.84,m3,0.344,7.513,Scope 3
+B0038,Real Estate,2024-04,waste,solid_waste,54.07,kg,1.5,81.1093,Scope 3
+B0038,Real Estate,2024-05,electricity,electricity_consumption,406.64,kWh,0.359,145.9831,Scope 2
+B0038,Real Estate,2024-05,water,water_supply,48.15,m3,0.344,16.5623,Scope 3
+B0038,Real Estate,2024-05,waste,solid_waste,97.42,kg,1.5,146.1261,Scope 3
+B0038,Real Estate,2024-06,electricity,electricity_consumption,179.35,kWh,0.359,64.3867,Scope 2
+B0038,Real Estate,2024-06,water,water_supply,39.66,m3,0.344,13.6446,Scope 3
+B0038,Real Estate,2024-06,waste,solid_waste,97.35,kg,1.5,146.0208,Scope 3
+B0038,Real Estate,2024-07,electricity,electricity_consumption,201.96,kWh,0.359,72.5038,Scope 2
+B0038,Real Estate,2024-07,water,water_supply,37.35,m3,0.344,12.8498,Scope 3
+B0038,Real Estate,2024-07,waste,solid_waste,89.85,kg,1.5,134.7757,Scope 3
+B0038,Real Estate,2024-08,electricity,electricity_consumption,334.76,kWh,0.359,120.1771,Scope 2
+B0038,Real Estate,2024-08,water,water_supply,45.4,m3,0.344,15.6189,Scope 3
+B0038,Real Estate,2024-08,waste,solid_waste,54.53,kg,1.5,81.7956,Scope 3
+B0038,Real Estate,2024-09,electricity,electricity_consumption,262.38,kWh,0.359,94.1958,Scope 2
+B0038,Real Estate,2024-09,water,water_supply,45.03,m3,0.344,15.4918,Scope 3
+B0038,Real Estate,2024-09,waste,solid_waste,100.31,kg,1.5,150.4704,Scope 3
+B0038,Real Estate,2024-10,electricity,electricity_consumption,406.95,kWh,0.359,146.094,Scope 2
+B0038,Real Estate,2024-10,water,water_supply,46.35,m3,0.344,15.9436,Scope 3
+B0038,Real Estate,2024-10,waste,solid_waste,66.29,kg,1.5,99.4402,Scope 3
+B0038,Real Estate,2024-11,electricity,electricity_consumption,171.17,kWh,0.359,61.4503,Scope 2
+B0038,Real Estate,2024-11,water,water_supply,45.7,m3,0.344,15.7197,Scope 3
+B0038,Real Estate,2024-11,waste,solid_waste,52.65,kg,1.5,78.9767,Scope 3
+B0038,Real Estate,2024-12,electricity,electricity_consumption,325.73,kWh,0.359,116.938,Scope 2
+B0038,Real Estate,2024-12,water,water_supply,57.61,m3,0.344,19.8176,Scope 3
+B0038,Real Estate,2024-12,waste,solid_waste,107.55,kg,1.5,161.3211,Scope 3
+B0039,Insurance Broker,2024-01,electricity,electricity_consumption,266.45,kWh,0.359,95.6559,Scope 2
+B0039,Insurance Broker,2024-01,water,water_supply,45.73,m3,0.344,15.7316,Scope 3
+B0039,Insurance Broker,2024-01,waste,solid_waste,95.83,kg,1.5,143.7379,Scope 3
+B0039,Insurance Broker,2024-02,electricity,electricity_consumption,313.69,kWh,0.359,112.6129,Scope 2
+B0039,Insurance Broker,2024-02,water,water_supply,57.66,m3,0.344,19.8346,Scope 3
+B0039,Insurance Broker,2024-02,waste,solid_waste,88.61,kg,1.5,132.9154,Scope 3
+B0039,Insurance Broker,2024-03,electricity,electricity_consumption,438.36,kWh,0.359,157.3702,Scope 2
+B0039,Insurance Broker,2024-03,water,water_supply,56.21,m3,0.344,19.3376,Scope 3
+B0039,Insurance Broker,2024-03,waste,solid_waste,69.58,kg,1.5,104.3687,Scope 3
+B0039,Insurance Broker,2024-04,electricity,electricity_consumption,170.81,kWh,0.359,61.3202,Scope 2
+B0039,Insurance Broker,2024-04,water,water_supply,24.03,m3,0.344,8.2667,Scope 3
+B0039,Insurance Broker,2024-04,waste,solid_waste,51.82,kg,1.5,77.7333,Scope 3
+B0039,Insurance Broker,2024-05,electricity,electricity_consumption,178.33,kWh,0.359,64.0215,Scope 2
+B0039,Insurance Broker,2024-05,water,water_supply,47.32,m3,0.344,16.2782,Scope 3
+B0039,Insurance Broker,2024-05,waste,solid_waste,57.12,kg,1.5,85.6783,Scope 3
+B0039,Insurance Broker,2024-06,electricity,electricity_consumption,245.69,kWh,0.359,88.2037,Scope 2
+B0039,Insurance Broker,2024-06,water,water_supply,53.8,m3,0.344,18.5055,Scope 3
+B0039,Insurance Broker,2024-06,waste,solid_waste,52.33,kg,1.5,78.4908,Scope 3
+B0039,Insurance Broker,2024-07,electricity,electricity_consumption,394.34,kWh,0.359,141.5683,Scope 2
+B0039,Insurance Broker,2024-07,water,water_supply,31.27,m3,0.344,10.7583,Scope 3
+B0039,Insurance Broker,2024-07,waste,solid_waste,61.82,kg,1.5,92.7247,Scope 3
+B0039,Insurance Broker,2024-08,electricity,electricity_consumption,359.02,kWh,0.359,128.8886,Scope 2
+B0039,Insurance Broker,2024-08,water,water_supply,45.16,m3,0.344,15.5343,Scope 3
+B0039,Insurance Broker,2024-08,waste,solid_waste,137.75,kg,1.5,206.6208,Scope 3
+B0039,Insurance Broker,2024-09,electricity,electricity_consumption,370.52,kWh,0.359,133.0172,Scope 2
+B0039,Insurance Broker,2024-09,water,water_supply,52.14,m3,0.344,17.9359,Scope 3
+B0039,Insurance Broker,2024-09,waste,solid_waste,78.2,kg,1.5,117.3052,Scope 3
+B0039,Insurance Broker,2024-10,electricity,electricity_consumption,203.23,kWh,0.359,72.9602,Scope 2
+B0039,Insurance Broker,2024-10,water,water_supply,50.02,m3,0.344,17.2085,Scope 3
+B0039,Insurance Broker,2024-10,waste,solid_waste,130.68,kg,1.5,196.0252,Scope 3
+B0039,Insurance Broker,2024-11,electricity,electricity_consumption,447.15,kWh,0.359,160.5274,Scope 2
+B0039,Insurance Broker,2024-11,water,water_supply,36.5,m3,0.344,12.5576,Scope 3
+B0039,Insurance Broker,2024-11,waste,solid_waste,87.2,kg,1.5,130.8027,Scope 3
+B0039,Insurance Broker,2024-12,electricity,electricity_consumption,382.92,kWh,0.359,137.4697,Scope 2
+B0039,Insurance Broker,2024-12,water,water_supply,33.63,m3,0.344,11.5695,Scope 3
+B0039,Insurance Broker,2024-12,waste,solid_waste,143.08,kg,1.5,214.6136,Scope 3
+B004,Pharmacy,2024-01,fuel,petrol,89.0,liter,2.33,207.37,Scope 1
+B004,Pharmacy,2024-02,fuel,petrol,73.0,liter,2.33,170.09,Scope 1
+B004,Pharmacy,2024-03,fuel,petrol,52.0,liter,2.33,121.16,Scope 1
+B0040,Art Gallery,2024-01,electricity,electricity_consumption,407.52,kWh,0.359,146.3011,Scope 2
+B0040,Art Gallery,2024-01,water,water_supply,37.16,m3,0.344,12.783,Scope 3
+B0040,Art Gallery,2024-01,waste,solid_waste,125.09,kg,1.5,187.6307,Scope 3
+B0040,Art Gallery,2024-02,electricity,electricity_consumption,376.36,kWh,0.359,135.1143,Scope 2
+B0040,Art Gallery,2024-02,water,water_supply,24.12,m3,0.344,8.299,Scope 3
+B0040,Art Gallery,2024-02,waste,solid_waste,140.26,kg,1.5,210.3829,Scope 3
+B0040,Art Gallery,2024-03,electricity,electricity_consumption,301.58,kWh,0.359,108.2657,Scope 2
+B0040,Art Gallery,2024-03,water,water_supply,53.06,m3,0.344,18.2521,Scope 3
+B0040,Art Gallery,2024-03,waste,solid_waste,82.0,kg,1.5,123.0074,Scope 3
+B0040,Art Gallery,2024-04,electricity,electricity_consumption,418.66,kWh,0.359,150.2979,Scope 2
+B0040,Art Gallery,2024-04,water,water_supply,35.57,m3,0.344,12.2354,Scope 3
+B0040,Art Gallery,2024-04,waste,solid_waste,51.08,kg,1.5,76.6256,Scope 3
+B0040,Art Gallery,2024-05,electricity,electricity_consumption,421.61,kWh,0.359,151.3596,Scope 2
+B0040,Art Gallery,2024-05,water,water_supply,23.65,m3,0.344,8.1361,Scope 3
+B0040,Art Gallery,2024-05,waste,solid_waste,81.93,kg,1.5,122.897,Scope 3
+B0040,Art Gallery,2024-06,electricity,electricity_consumption,435.02,kWh,0.359,156.1717,Scope 2
+B0040,Art Gallery,2024-06,water,water_supply,58.02,m3,0.344,19.9604,Scope 3
+B0040,Art Gallery,2024-06,waste,solid_waste,107.34,kg,1.5,161.0157,Scope 3
+B0040,Art Gallery,2024-07,electricity,electricity_consumption,339.55,kWh,0.359,121.8989,Scope 2
+B0040,Art Gallery,2024-07,water,water_supply,37.94,m3,0.344,13.0506,Scope 3
+B0040,Art Gallery,2024-07,waste,solid_waste,79.32,kg,1.5,118.9816,Scope 3
+B0040,Art Gallery,2024-08,electricity,electricity_consumption,248.6,kWh,0.359,89.2472,Scope 2
+B0040,Art Gallery,2024-08,water,water_supply,46.9,m3,0.344,16.1339,Scope 3
+B0040,Art Gallery,2024-08,waste,solid_waste,125.24,kg,1.5,187.8562,Scope 3
+B0040,Art Gallery,2024-09,electricity,electricity_consumption,387.47,kWh,0.359,139.1031,Scope 2
+B0040,Art Gallery,2024-09,water,water_supply,51.58,m3,0.344,17.7451,Scope 3
+B0040,Art Gallery,2024-09,waste,solid_waste,59.12,kg,1.5,88.6809,Scope 3
+B0040,Art Gallery,2024-10,electricity,electricity_consumption,298.33,kWh,0.359,107.0991,Scope 2
+B0040,Art Gallery,2024-10,water,water_supply,22.3,m3,0.344,7.672,Scope 3
+B0040,Art Gallery,2024-10,waste,solid_waste,104.95,kg,1.5,157.4293,Scope 3
+B0040,Art Gallery,2024-11,electricity,electricity_consumption,282.46,kWh,0.359,101.4028,Scope 2
+B0040,Art Gallery,2024-11,water,water_supply,55.51,m3,0.344,19.0948,Scope 3
+B0040,Art Gallery,2024-11,waste,solid_waste,85.09,kg,1.5,127.6373,Scope 3
+B0040,Art Gallery,2024-12,electricity,electricity_consumption,185.12,kWh,0.359,66.4581,Scope 2
+B0040,Art Gallery,2024-12,water,water_supply,25.72,m3,0.344,8.8476,Scope 3
+B0040,Art Gallery,2024-12,waste,solid_waste,126.15,kg,1.5,189.2266,Scope 3
+B0041,Laundromat,2024-01,electricity,electricity_consumption,335.47,kWh,0.359,120.4321,Scope 2
+B0041,Laundromat,2024-01,water,water_supply,24.04,m3,0.344,8.2714,Scope 3
+B0041,Laundromat,2024-01,waste,solid_waste,58.41,kg,1.5,87.616,Scope 3
+B0041,Laundromat,2024-02,electricity,electricity_consumption,360.29,kWh,0.359,129.3444,Scope 2
+B0041,Laundromat,2024-02,water,water_supply,22.91,m3,0.344,7.8812,Scope 3
+B0041,Laundromat,2024-02,waste,solid_waste,132.19,kg,1.5,198.279,Scope 3
+B0041,Laundromat,2024-03,electricity,electricity_consumption,361.87,kWh,0.359,129.9123,Scope 2
+B0041,Laundromat,2024-03,water,water_supply,23.25,m3,0.344,7.9994,Scope 3
+B0041,Laundromat,2024-03,waste,solid_waste,58.48,kg,1.5,87.7257,Scope 3
+B0041,Laundromat,2024-04,electricity,electricity_consumption,445.99,kWh,0.359,160.1111,Scope 2
+B0041,Laundromat,2024-04,water,water_supply,34.97,m3,0.344,12.03,Scope 3
+B0041,Laundromat,2024-04,waste,solid_waste,87.06,kg,1.5,130.5963,Scope 3
+B0041,Laundromat,2024-05,electricity,electricity_consumption,393.84,kWh,0.359,141.3885,Scope 2
+B0041,Laundromat,2024-05,water,water_supply,57.89,m3,0.344,19.9141,Scope 3
+B0041,Laundromat,2024-05,waste,solid_waste,148.6,kg,1.5,222.9002,Scope 3
+B0041,Laundromat,2024-06,electricity,electricity_consumption,376.01,kWh,0.359,134.9888,Scope 2
+B0041,Laundromat,2024-06,water,water_supply,35.05,m3,0.344,12.0573,Scope 3
+B0041,Laundromat,2024-06,waste,solid_waste,58.35,kg,1.5,87.5251,Scope 3
+B0041,Laundromat,2024-07,electricity,electricity_consumption,383.14,kWh,0.359,137.5487,Scope 2
+B0041,Laundromat,2024-07,water,water_supply,42.34,m3,0.344,14.5636,Scope 3
+B0041,Laundromat,2024-07,waste,solid_waste,92.42,kg,1.5,138.6333,Scope 3
+B0041,Laundromat,2024-08,electricity,electricity_consumption,421.91,kWh,0.359,151.4644,Scope 2
+B0041,Laundromat,2024-08,water,water_supply,24.45,m3,0.344,8.4101,Scope 3
+B0041,Laundromat,2024-08,waste,solid_waste,99.26,kg,1.5,148.8938,Scope 3
+B0041,Laundromat,2024-09,electricity,electricity_consumption,153.41,kWh,0.359,55.0728,Scope 2
+B0041,Laundromat,2024-09,water,water_supply,38.75,m3,0.344,13.3288,Scope 3
+B0041,Laundromat,2024-09,waste,solid_waste,55.63,kg,1.5,83.4455,Scope 3
+B0041,Laundromat,2024-10,electricity,electricity_consumption,185.65,kWh,0.359,66.6467,Scope 2
+B0041,Laundromat,2024-10,water,water_supply,24.7,m3,0.344,8.4972,Scope 3
+B0041,Laundromat,2024-10,waste,solid_waste,114.92,kg,1.5,172.3815,Scope 3
+B0041,Laundromat,2024-11,electricity,electricity_consumption,373.81,kWh,0.359,134.199,Scope 2
+B0041,Laundromat,2024-11,water,water_supply,43.33,m3,0.344,14.9072,Scope 3
+B0041,Laundromat,2024-11,waste,solid_waste,146.22,kg,1.5,219.3259,Scope 3
+B0041,Laundromat,2024-12,electricity,electricity_consumption,262.46,kWh,0.359,94.2236,Scope 2
+B0041,Laundromat,2024-12,water,water_supply,31.43,m3,0.344,10.8114,Scope 3
+B0041,Laundromat,2024-12,waste,solid_waste,136.86,kg,1.5,205.2899,Scope 3
+B0042,Software Dev,2024-01,electricity,electricity_consumption,217.08,kWh,0.359,77.9313,Scope 2
+B0042,Software Dev,2024-01,water,water_supply,58.53,m3,0.344,20.1339,Scope 3
+B0042,Software Dev,2024-01,waste,solid_waste,51.22,kg,1.5,76.8232,Scope 3
+B0042,Software Dev,2024-02,electricity,electricity_consumption,440.96,kWh,0.359,158.3059,Scope 2
+B0042,Software Dev,2024-02,water,water_supply,21.73,m3,0.344,7.4739,Scope 3
+B0042,Software Dev,2024-02,waste,solid_waste,139.11,kg,1.5,208.6715,Scope 3
+B0042,Software Dev,2024-03,electricity,electricity_consumption,308.31,kWh,0.359,110.6834,Scope 2
+B0042,Software Dev,2024-03,water,water_supply,59.72,m3,0.344,20.5432,Scope 3
+B0042,Software Dev,2024-03,waste,solid_waste,57.38,kg,1.5,86.0695,Scope 3
+B0042,Software Dev,2024-04,electricity,electricity_consumption,316.16,kWh,0.359,113.5001,Scope 2
+B0042,Software Dev,2024-04,water,water_supply,58.77,m3,0.344,20.2176,Scope 3
+B0042,Software Dev,2024-04,waste,solid_waste,102.31,kg,1.5,153.4647,Scope 3
+B0042,Software Dev,2024-05,electricity,electricity_consumption,338.82,kWh,0.359,121.6362,Scope 2
+B0042,Software Dev,2024-05,water,water_supply,47.83,m3,0.344,16.4535,Scope 3
+B0042,Software Dev,2024-05,waste,solid_waste,95.45,kg,1.5,143.1812,Scope 3
+B0042,Software Dev,2024-06,electricity,electricity_consumption,338.27,kWh,0.359,121.438,Scope 2
+B0042,Software Dev,2024-06,water,water_supply,43.37,m3,0.344,14.9202,Scope 3
+B0042,Software Dev,2024-06,waste,solid_waste,140.12,kg,1.5,210.1737,Scope 3
+B0042,Software Dev,2024-07,electricity,electricity_consumption,163.63,kWh,0.359,58.7446,Scope 2
+B0042,Software Dev,2024-07,water,water_supply,31.24,m3,0.344,10.7461,Scope 3
+B0042,Software Dev,2024-07,waste,solid_waste,145.04,kg,1.5,217.5617,Scope 3
+B0042,Software Dev,2024-08,electricity,electricity_consumption,417.08,kWh,0.359,149.7314,Scope 2
+B0042,Software Dev,2024-08,water,water_supply,38.23,m3,0.344,13.1498,Scope 3
+B0042,Software Dev,2024-08,waste,solid_waste,112.01,kg,1.5,168.0199,Scope 3
+B0042,Software Dev,2024-09,electricity,electricity_consumption,233.21,kWh,0.359,83.724,Scope 2
+B0042,Software Dev,2024-09,water,water_supply,27.52,m3,0.344,9.4685,Scope 3
+B0042,Software Dev,2024-09,waste,solid_waste,96.37,kg,1.5,144.5548,Scope 3
+B0042,Software Dev,2024-10,electricity,electricity_consumption,256.01,kWh,0.359,91.906,Scope 2
+B0042,Software Dev,2024-10,water,water_supply,43.35,m3,0.344,14.9111,Scope 3
+B0042,Software Dev,2024-10,waste,solid_waste,57.77,kg,1.5,86.6602,Scope 3
+B0042,Software Dev,2024-11,electricity,electricity_consumption,442.32,kWh,0.359,158.7923,Scope 2
+B0042,Software Dev,2024-11,water,water_supply,59.45,m3,0.344,20.4503,Scope 3
+B0042,Software Dev,2024-11,waste,solid_waste,119.82,kg,1.5,179.7243,Scope 3
+B0042,Software Dev,2024-12,electricity,electricity_consumption,310.83,kWh,0.359,111.5876,Scope 2
+B0042,Software Dev,2024-12,water,water_supply,32.38,m3,0.344,11.1391,Scope 3
+B0042,Software Dev,2024-12,waste,solid_waste,131.38,kg,1.5,197.0693,Scope 3
+B0043,Law Firm,2024-01,electricity,electricity_consumption,355.42,kWh,0.359,127.5955,Scope 2
+B0043,Law Firm,2024-01,water,water_supply,26.5,m3,0.344,9.1176,Scope 3
+B0043,Law Firm,2024-01,waste,solid_waste,141.09,kg,1.5,211.6391,Scope 3
+B0043,Law Firm,2024-02,electricity,electricity_consumption,396.76,kWh,0.359,142.4373,Scope 2
+B0043,Law Firm,2024-02,water,water_supply,57.99,m3,0.344,19.9492,Scope 3
+B0043,Law Firm,2024-02,waste,solid_waste,122.57,kg,1.5,183.8579,Scope 3
+B0043,Law Firm,2024-03,electricity,electricity_consumption,334.02,kWh,0.359,119.9148,Scope 2
+B0043,Law Firm,2024-03,water,water_supply,36.73,m3,0.344,12.635,Scope 3
+B0043,Law Firm,2024-03,waste,solid_waste,143.27,kg,1.5,214.9093,Scope 3
+B0043,Law Firm,2024-04,electricity,electricity_consumption,409.82,kWh,0.359,147.1251,Scope 2
+B0043,Law Firm,2024-04,water,water_supply,21.81,m3,0.344,7.5022,Scope 3
+B0043,Law Firm,2024-04,waste,solid_waste,52.64,kg,1.5,78.955,Scope 3
+B0043,Law Firm,2024-05,electricity,electricity_consumption,262.94,kWh,0.359,94.3951,Scope 2
+B0043,Law Firm,2024-05,water,water_supply,52.42,m3,0.344,18.0332,Scope 3
+B0043,Law Firm,2024-05,waste,solid_waste,148.73,kg,1.5,223.0914,Scope 3
+B0043,Law Firm,2024-06,electricity,electricity_consumption,195.13,kWh,0.359,70.0499,Scope 2
+B0043,Law Firm,2024-06,water,water_supply,43.77,m3,0.344,15.0552,Scope 3
+B0043,Law Firm,2024-06,waste,solid_waste,88.09,kg,1.5,132.1336,Scope 3
+B0043,Law Firm,2024-07,electricity,electricity_consumption,440.97,kWh,0.359,158.3098,Scope 2
+B0043,Law Firm,2024-07,water,water_supply,53.68,m3,0.344,18.4676,Scope 3
+B0043,Law Firm,2024-07,waste,solid_waste,133.83,kg,1.5,200.7493,Scope 3
+B0043,Law Firm,2024-08,electricity,electricity_consumption,290.61,kWh,0.359,104.3283,Scope 2
+B0043,Law Firm,2024-08,water,water_supply,36.59,m3,0.344,12.5879,Scope 3
+B0043,Law Firm,2024-08,waste,solid_waste,77.34,kg,1.5,116.0111,Scope 3
+B0043,Law Firm,2024-09,electricity,electricity_consumption,166.91,kWh,0.359,59.9216,Scope 2
+B0043,Law Firm,2024-09,water,water_supply,54.59,m3,0.344,18.7786,Scope 3
+B0043,Law Firm,2024-09,waste,solid_waste,131.29,kg,1.5,196.9352,Scope 3
+B0043,Law Firm,2024-10,electricity,electricity_consumption,449.92,kWh,0.359,161.5196,Scope 2
+B0043,Law Firm,2024-10,water,water_supply,59.87,m3,0.344,20.5937,Scope 3
+B0043,Law Firm,2024-10,waste,solid_waste,105.54,kg,1.5,158.3148,Scope 3
+B0043,Law Firm,2024-11,electricity,electricity_consumption,380.7,kWh,0.359,136.6699,Scope 2
+B0043,Law Firm,2024-11,water,water_supply,57.79,m3,0.344,19.88,Scope 3
+B0043,Law Firm,2024-11,waste,solid_waste,134.96,kg,1.5,202.4471,Scope 3
+B0043,Law Firm,2024-12,electricity,electricity_consumption,224.2,kWh,0.359,80.4894,Scope 2
+B0043,Law Firm,2024-12,water,water_supply,38.02,m3,0.344,13.0795,Scope 3
+B0043,Law Firm,2024-12,waste,solid_waste,62.92,kg,1.5,94.3739,Scope 3
+B0044,Logistics Hub,2024-01,electricity,electricity_consumption,436.22,kWh,0.359,156.6013,Scope 2
+B0044,Logistics Hub,2024-01,water,water_supply,44.25,m3,0.344,15.221,Scope 3
+B0044,Logistics Hub,2024-01,waste,solid_waste,72.86,kg,1.5,109.2964,Scope 3
+B0044,Logistics Hub,2024-01,fuel,diesel_generator,234.34,L,2.67,625.6882,Scope 1
+B0044,Logistics Hub,2024-01,transport,delivery_transport,1427.19,km,0.21,299.7104,Scope 3
+B0044,Logistics Hub,2024-02,electricity,electricity_consumption,257.45,kWh,0.359,92.4241,Scope 2
+B0044,Logistics Hub,2024-02,water,water_supply,24.54,m3,0.344,8.4426,Scope 3
+B0044,Logistics Hub,2024-02,waste,solid_waste,117.16,kg,1.5,175.736,Scope 3
+B0044,Logistics Hub,2024-02,fuel,diesel_generator,204.06,L,2.67,544.8443,Scope 1
+B0044,Logistics Hub,2024-02,transport,delivery_transport,1658.48,km,0.21,348.2803,Scope 3
+B0044,Logistics Hub,2024-03,electricity,electricity_consumption,306.05,kWh,0.359,109.8716,Scope 2
+B0044,Logistics Hub,2024-03,water,water_supply,54.09,m3,0.344,18.606,Scope 3
+B0044,Logistics Hub,2024-03,waste,solid_waste,105.19,kg,1.5,157.786,Scope 3
+B0044,Logistics Hub,2024-03,fuel,diesel_generator,212.19,L,2.67,566.5409,Scope 1
+B0044,Logistics Hub,2024-03,transport,delivery_transport,1814.98,km,0.21,381.1459,Scope 3
+B0044,Logistics Hub,2024-04,electricity,electricity_consumption,271.04,kWh,0.359,97.3051,Scope 2
+B0044,Logistics Hub,2024-04,water,water_supply,25.36,m3,0.344,8.724,Scope 3
+B0044,Logistics Hub,2024-04,waste,solid_waste,52.88,kg,1.5,79.3174,Scope 3
+B0044,Logistics Hub,2024-04,fuel,diesel_generator,251.03,L,2.67,670.2433,Scope 1
+B0044,Logistics Hub,2024-04,transport,delivery_transport,1430.46,km,0.21,300.3975,Scope 3
+B0044,Logistics Hub,2024-05,electricity,electricity_consumption,361.22,kWh,0.359,129.6794,Scope 2
+B0044,Logistics Hub,2024-05,water,water_supply,28.52,m3,0.344,9.8104,Scope 3
+B0044,Logistics Hub,2024-05,waste,solid_waste,63.64,kg,1.5,95.4557,Scope 3
+B0044,Logistics Hub,2024-05,fuel,diesel_generator,102.91,L,2.67,274.7669,Scope 1
+B0044,Logistics Hub,2024-05,transport,delivery_transport,1025.88,km,0.21,215.4351,Scope 3
+B0044,Logistics Hub,2024-06,electricity,electricity_consumption,326.98,kWh,0.359,117.3841,Scope 2
+B0044,Logistics Hub,2024-06,water,water_supply,35.69,m3,0.344,12.2773,Scope 3
+B0044,Logistics Hub,2024-06,waste,solid_waste,93.75,kg,1.5,140.6212,Scope 3
+B0044,Logistics Hub,2024-06,fuel,diesel_generator,280.83,L,2.67,749.8207,Scope 1
+B0044,Logistics Hub,2024-06,transport,delivery_transport,1022.38,km,0.21,214.7005,Scope 3
+B0044,Logistics Hub,2024-07,electricity,electricity_consumption,304.2,kWh,0.359,109.2067,Scope 2
+B0044,Logistics Hub,2024-07,water,water_supply,51.35,m3,0.344,17.6631,Scope 3
+B0044,Logistics Hub,2024-07,waste,solid_waste,89.65,kg,1.5,134.4814,Scope 3
+B0044,Logistics Hub,2024-07,fuel,diesel_generator,224.42,L,2.67,599.1943,Scope 1
+B0044,Logistics Hub,2024-07,transport,delivery_transport,1793.55,km,0.21,376.6446,Scope 3
+B0044,Logistics Hub,2024-08,electricity,electricity_consumption,434.86,kWh,0.359,156.1134,Scope 2
+B0044,Logistics Hub,2024-08,water,water_supply,25.88,m3,0.344,8.9037,Scope 3
+B0044,Logistics Hub,2024-08,waste,solid_waste,142.66,kg,1.5,213.9881,Scope 3
+B0044,Logistics Hub,2024-08,fuel,diesel_generator,198.42,L,2.67,529.7901,Scope 1
+B0044,Logistics Hub,2024-08,transport,delivery_transport,887.37,km,0.21,186.347,Scope 3
+B0044,Logistics Hub,2024-09,electricity,electricity_consumption,287.74,kWh,0.359,103.2989,Scope 2
+B0044,Logistics Hub,2024-09,water,water_supply,59.2,m3,0.344,20.3652,Scope 3
+B0044,Logistics Hub,2024-09,waste,solid_waste,99.26,kg,1.5,148.8927,Scope 3
+B0044,Logistics Hub,2024-09,fuel,diesel_generator,165.75,L,2.67,442.5534,Scope 1
+B0044,Logistics Hub,2024-09,transport,delivery_transport,1450.1,km,0.21,304.5213,Scope 3
+B0044,Logistics Hub,2024-10,electricity,electricity_consumption,222.04,kWh,0.359,79.7137,Scope 2
+B0044,Logistics Hub,2024-10,water,water_supply,23.03,m3,0.344,7.9239,Scope 3
+B0044,Logistics Hub,2024-10,waste,solid_waste,62.89,kg,1.5,94.332,Scope 3
+B0044,Logistics Hub,2024-10,fuel,diesel_generator,125.61,L,2.67,335.3765,Scope 1
+B0044,Logistics Hub,2024-10,transport,delivery_transport,727.85,km,0.21,152.8493,Scope 3
+B0044,Logistics Hub,2024-11,electricity,electricity_consumption,191.65,kWh,0.359,68.8017,Scope 2
+B0044,Logistics Hub,2024-11,water,water_supply,45.63,m3,0.344,15.6984,Scope 3
+B0044,Logistics Hub,2024-11,waste,solid_waste,68.19,kg,1.5,102.282,Scope 3
+B0044,Logistics Hub,2024-11,fuel,diesel_generator,169.13,L,2.67,451.5863,Scope 1
+B0044,Logistics Hub,2024-11,transport,delivery_transport,1845.18,km,0.21,387.4883,Scope 3
+B0044,Logistics Hub,2024-12,electricity,electricity_consumption,292.19,kWh,0.359,104.8957,Scope 2
+B0044,Logistics Hub,2024-12,water,water_supply,46.7,m3,0.344,16.0656,Scope 3
+B0044,Logistics Hub,2024-12,waste,solid_waste,67.23,kg,1.5,100.848,Scope 3
+B0044,Logistics Hub,2024-12,fuel,diesel_generator,138.46,L,2.67,369.6823,Scope 1
+B0044,Logistics Hub,2024-12,transport,delivery_transport,561.3,km,0.21,117.8736,Scope 3
+B0045,Advertising Agency,2024-01,electricity,electricity_consumption,200.68,kWh,0.359,72.0443,Scope 2
+B0045,Advertising Agency,2024-01,water,water_supply,31.14,m3,0.344,10.7134,Scope 3
+B0045,Advertising Agency,2024-01,waste,solid_waste,67.7,kg,1.5,101.5516,Scope 3
+B0045,Advertising Agency,2024-02,electricity,electricity_consumption,176.61,kWh,0.359,63.4033,Scope 2
+B0045,Advertising Agency,2024-02,water,water_supply,24.83,m3,0.344,8.5399,Scope 3
+B0045,Advertising Agency,2024-02,waste,solid_waste,96.08,kg,1.5,144.1168,Scope 3
+B0045,Advertising Agency,2024-03,electricity,electricity_consumption,211.9,kWh,0.359,76.0721,Scope 2
+B0045,Advertising Agency,2024-03,water,water_supply,34.57,m3,0.344,11.8924,Scope 3
+B0045,Advertising Agency,2024-03,waste,solid_waste,100.34,kg,1.5,150.5126,Scope 3
+B0045,Advertising Agency,2024-04,electricity,electricity_consumption,357.12,kWh,0.359,128.2055,Scope 2
+B0045,Advertising Agency,2024-04,water,water_supply,21.57,m3,0.344,7.4209,Scope 3
+B0045,Advertising Agency,2024-04,waste,solid_waste,129.94,kg,1.5,194.9116,Scope 3
+B0045,Advertising Agency,2024-05,electricity,electricity_consumption,338.37,kWh,0.359,121.4749,Scope 2
+B0045,Advertising Agency,2024-05,water,water_supply,23.27,m3,0.344,8.005,Scope 3
+B0045,Advertising Agency,2024-05,waste,solid_waste,137.36,kg,1.5,206.0368,Scope 3
+B0045,Advertising Agency,2024-06,electricity,electricity_consumption,426.26,kWh,0.359,153.028,Scope 2
+B0045,Advertising Agency,2024-06,water,water_supply,22.44,m3,0.344,7.7204,Scope 3
+B0045,Advertising Agency,2024-06,waste,solid_waste,77.69,kg,1.5,116.5316,Scope 3
+B0045,Advertising Agency,2024-07,electricity,electricity_consumption,391.86,kWh,0.359,140.6779,Scope 2
+B0045,Advertising Agency,2024-07,water,water_supply,49.93,m3,0.344,17.1761,Scope 3
+B0045,Advertising Agency,2024-07,waste,solid_waste,68.45,kg,1.5,102.6782,Scope 3
+B0045,Advertising Agency,2024-08,electricity,electricity_consumption,212.8,kWh,0.359,76.3969,Scope 2
+B0045,Advertising Agency,2024-08,water,water_supply,34.82,m3,0.344,11.9777,Scope 3
+B0045,Advertising Agency,2024-08,waste,solid_waste,98.45,kg,1.5,147.6784,Scope 3
+B0045,Advertising Agency,2024-09,electricity,electricity_consumption,335.48,kWh,0.359,120.436,Scope 2
+B0045,Advertising Agency,2024-09,water,water_supply,34.76,m3,0.344,11.9563,Scope 3
+B0045,Advertising Agency,2024-09,waste,solid_waste,96.25,kg,1.5,144.3802,Scope 3
+B0045,Advertising Agency,2024-10,electricity,electricity_consumption,374.24,kWh,0.359,134.3526,Scope 2
+B0045,Advertising Agency,2024-10,water,water_supply,21.47,m3,0.344,7.3848,Scope 3
+B0045,Advertising Agency,2024-10,waste,solid_waste,75.24,kg,1.5,112.8655,Scope 3
+B0045,Advertising Agency,2024-11,electricity,electricity_consumption,364.0,kWh,0.359,130.6778,Scope 2
+B0045,Advertising Agency,2024-11,water,water_supply,55.81,m3,0.344,19.198,Scope 3
+B0045,Advertising Agency,2024-11,waste,solid_waste,101.17,kg,1.5,151.7516,Scope 3
+B0045,Advertising Agency,2024-12,electricity,electricity_consumption,309.63,kWh,0.359,111.1586,Scope 2
+B0045,Advertising Agency,2024-12,water,water_supply,24.29,m3,0.344,8.3547,Scope 3
+B0045,Advertising Agency,2024-12,waste,solid_waste,94.74,kg,1.5,142.1119,Scope 3
+B0046,Veterinary Clinic,2024-01,electricity,electricity_consumption,309.79,kWh,0.359,111.2129,Scope 2
+B0046,Veterinary Clinic,2024-01,water,water_supply,29.7,m3,0.344,10.2164,Scope 3
+B0046,Veterinary Clinic,2024-01,waste,solid_waste,76.92,kg,1.5,115.3865,Scope 3
+B0046,Veterinary Clinic,2024-02,electricity,electricity_consumption,263.19,kWh,0.359,94.4835,Scope 2
+B0046,Veterinary Clinic,2024-02,water,water_supply,20.8,m3,0.344,7.1562,Scope 3
+B0046,Veterinary Clinic,2024-02,waste,solid_waste,82.21,kg,1.5,123.3119,Scope 3
+B0046,Veterinary Clinic,2024-03,electricity,electricity_consumption,213.43,kWh,0.359,76.623,Scope 2
+B0046,Veterinary Clinic,2024-03,water,water_supply,33.1,m3,0.344,11.3864,Scope 3
+B0046,Veterinary Clinic,2024-03,waste,solid_waste,61.98,kg,1.5,92.9643,Scope 3
+B0046,Veterinary Clinic,2024-04,electricity,electricity_consumption,417.16,kWh,0.359,149.7598,Scope 2
+B0046,Veterinary Clinic,2024-04,water,water_supply,43.74,m3,0.344,15.0478,Scope 3
+B0046,Veterinary Clinic,2024-04,waste,solid_waste,117.91,kg,1.5,176.8653,Scope 3
+B0046,Veterinary Clinic,2024-05,electricity,electricity_consumption,386.75,kWh,0.359,138.8437,Scope 2
+B0046,Veterinary Clinic,2024-05,water,water_supply,39.94,m3,0.344,13.7386,Scope 3
+B0046,Veterinary Clinic,2024-05,waste,solid_waste,58.69,kg,1.5,88.038,Scope 3
+B0046,Veterinary Clinic,2024-06,electricity,electricity_consumption,311.13,kWh,0.359,111.6964,Scope 2
+B0046,Veterinary Clinic,2024-06,water,water_supply,43.47,m3,0.344,14.9549,Scope 3
+B0046,Veterinary Clinic,2024-06,waste,solid_waste,124.54,kg,1.5,186.8159,Scope 3
+B0046,Veterinary Clinic,2024-07,electricity,electricity_consumption,279.5,kWh,0.359,100.3397,Scope 2
+B0046,Veterinary Clinic,2024-07,water,water_supply,25.1,m3,0.344,8.6355,Scope 3
+B0046,Veterinary Clinic,2024-07,waste,solid_waste,78.38,kg,1.5,117.5664,Scope 3
+B0046,Veterinary Clinic,2024-08,electricity,electricity_consumption,258.92,kWh,0.359,92.954,Scope 2
+B0046,Veterinary Clinic,2024-08,water,water_supply,45.84,m3,0.344,15.7678,Scope 3
+B0046,Veterinary Clinic,2024-08,waste,solid_waste,107.08,kg,1.5,160.6167,Scope 3
+B0046,Veterinary Clinic,2024-09,electricity,electricity_consumption,256.83,kWh,0.359,92.2016,Scope 2
+B0046,Veterinary Clinic,2024-09,water,water_supply,59.46,m3,0.344,20.4544,Scope 3
+B0046,Veterinary Clinic,2024-09,waste,solid_waste,110.58,kg,1.5,165.8662,Scope 3
+B0046,Veterinary Clinic,2024-10,electricity,electricity_consumption,221.17,kWh,0.359,79.3993,Scope 2
+B0046,Veterinary Clinic,2024-10,water,water_supply,24.07,m3,0.344,8.2805,Scope 3
+B0046,Veterinary Clinic,2024-10,waste,solid_waste,65.29,kg,1.5,97.9289,Scope 3
+B0046,Veterinary Clinic,2024-11,electricity,electricity_consumption,223.79,kWh,0.359,80.3396,Scope 2
+B0046,Veterinary Clinic,2024-11,water,water_supply,26.43,m3,0.344,9.091,Scope 3
+B0046,Veterinary Clinic,2024-11,waste,solid_waste,68.66,kg,1.5,102.9851,Scope 3
+B0046,Veterinary Clinic,2024-12,electricity,electricity_consumption,235.53,kWh,0.359,84.5547,Scope 2
+B0046,Veterinary Clinic,2024-12,water,water_supply,26.93,m3,0.344,9.2656,Scope 3
+B0046,Veterinary Clinic,2024-12,waste,solid_waste,139.68,kg,1.5,209.5148,Scope 3
+B0047,Data Center,2024-01,electricity,electricity_consumption,174.07,kWh,0.359,62.4912,Scope 2
+B0047,Data Center,2024-01,water,water_supply,40.98,m3,0.344,14.0973,Scope 3
+B0047,Data Center,2024-01,waste,solid_waste,91.04,kg,1.5,136.5595,Scope 3
+B0047,Data Center,2024-01,electricity,air_conditioning,1973.57,kWh,0.359,708.5109,Scope 2
+B0047,Data Center,2024-02,electricity,electricity_consumption,183.61,kWh,0.359,65.9166,Scope 2
+B0047,Data Center,2024-02,water,water_supply,35.91,m3,0.344,12.3545,Scope 3
+B0047,Data Center,2024-02,waste,solid_waste,146.95,kg,1.5,220.4206,Scope 3
+B0047,Data Center,2024-02,electricity,air_conditioning,1798.26,kWh,0.359,645.5756,Scope 2
+B0047,Data Center,2024-03,electricity,electricity_consumption,395.12,kWh,0.359,141.8487,Scope 2
+B0047,Data Center,2024-03,water,water_supply,30.32,m3,0.344,10.4287,Scope 3
+B0047,Data Center,2024-03,waste,solid_waste,67.09,kg,1.5,100.6331,Scope 3
+B0047,Data Center,2024-03,electricity,air_conditioning,1502.96,kWh,0.359,539.5644,Scope 2
+B0047,Data Center,2024-04,electricity,electricity_consumption,428.81,kWh,0.359,153.9438,Scope 2
+B0047,Data Center,2024-04,water,water_supply,42.27,m3,0.344,14.5411,Scope 3
+B0047,Data Center,2024-04,waste,solid_waste,107.16,kg,1.5,160.7419,Scope 3
+B0047,Data Center,2024-04,electricity,air_conditioning,919.97,kWh,0.359,330.2687,Scope 2
+B0047,Data Center,2024-05,electricity,electricity_consumption,380.85,kWh,0.359,136.7244,Scope 2
+B0047,Data Center,2024-05,water,water_supply,27.48,m3,0.344,9.4537,Scope 3
+B0047,Data Center,2024-05,waste,solid_waste,82.37,kg,1.5,123.5519,Scope 3
+B0047,Data Center,2024-05,electricity,air_conditioning,1138.15,kWh,0.359,408.5975,Scope 2
+B0047,Data Center,2024-06,electricity,electricity_consumption,302.28,kWh,0.359,108.5196,Scope 2
+B0047,Data Center,2024-06,water,water_supply,29.7,m3,0.344,10.2156,Scope 3
+B0047,Data Center,2024-06,waste,solid_waste,61.48,kg,1.5,92.2255,Scope 3
+B0047,Data Center,2024-06,electricity,air_conditioning,1415.93,kWh,0.359,508.3189,Scope 2
+B0047,Data Center,2024-07,electricity,electricity_consumption,236.59,kWh,0.359,84.9355,Scope 2
+B0047,Data Center,2024-07,water,water_supply,43.25,m3,0.344,14.8778,Scope 3
+B0047,Data Center,2024-07,waste,solid_waste,65.44,kg,1.5,98.1544,Scope 3
+B0047,Data Center,2024-07,electricity,air_conditioning,1221.71,kWh,0.359,438.5939,Scope 2
+B0047,Data Center,2024-08,electricity,electricity_consumption,309.78,kWh,0.359,111.2099,Scope 2
+B0047,Data Center,2024-08,water,water_supply,22.07,m3,0.344,7.5931,Scope 3
+B0047,Data Center,2024-08,waste,solid_waste,83.66,kg,1.5,125.4906,Scope 3
+B0047,Data Center,2024-08,electricity,air_conditioning,701.62,kWh,0.359,251.8823,Scope 2
+B0047,Data Center,2024-09,electricity,electricity_consumption,169.01,kWh,0.359,60.6755,Scope 2
+B0047,Data Center,2024-09,water,water_supply,59.6,m3,0.344,20.5019,Scope 3
+B0047,Data Center,2024-09,waste,solid_waste,82.24,kg,1.5,123.3531,Scope 3
+B0047,Data Center,2024-09,electricity,air_conditioning,1714.81,kWh,0.359,615.6174,Scope 2
+B0047,Data Center,2024-10,electricity,electricity_consumption,226.39,kWh,0.359,81.2748,Scope 2
+B0047,Data Center,2024-10,water,water_supply,47.26,m3,0.344,16.2575,Scope 3
+B0047,Data Center,2024-10,waste,solid_waste,126.02,kg,1.5,189.0342,Scope 3
+B0047,Data Center,2024-10,electricity,air_conditioning,1393.46,kWh,0.359,500.2515,Scope 2
+B0047,Data Center,2024-11,electricity,electricity_consumption,291.47,kWh,0.359,104.6388,Scope 2
+B0047,Data Center,2024-11,water,water_supply,36.47,m3,0.344,12.5469,Scope 3
+B0047,Data Center,2024-11,waste,solid_waste,84.89,kg,1.5,127.3302,Scope 3
+B0047,Data Center,2024-11,electricity,air_conditioning,1894.29,kWh,0.359,680.0514,Scope 2
+B0047,Data Center,2024-12,electricity,electricity_consumption,399.19,kWh,0.359,143.3077,Scope 2
+B0047,Data Center,2024-12,water,water_supply,58.6,m3,0.344,20.1588,Scope 3
+B0047,Data Center,2024-12,waste,solid_waste,62.43,kg,1.5,93.6446,Scope 3
+B0047,Data Center,2024-12,electricity,air_conditioning,1596.3,kWh,0.359,573.0721,Scope 2
+B0048,Pharmacy,2024-01,electricity,electricity_consumption,292.0,kWh,0.359,104.828,Scope 2
+B0048,Pharmacy,2024-02,electricity,electricity_consumption,240.0,kWh,0.359,86.16,Scope 2
+B0048,Pharmacy,2024-03,electricity,electricity_consumption,454.0,kWh,0.359,162.986,Scope 2
+B0048,Pharmacy,2024-04,electricity,electricity_consumption,211.0,kWh,0.359,75.749,Scope 2
+B0048,Pharmacy,2024-05,electricity,electricity_consumption,282.0,kWh,0.359,101.238,Scope 2
+B0048,Pharmacy,2024-06,electricity,electricity_consumption,465.0,kWh,0.359,166.935,Scope 2
+B0048,Pharmacy,2024-07,electricity,electricity_consumption,297.0,kWh,0.359,106.623,Scope 2
+B0048,Pharmacy,2024-08,electricity,electricity_consumption,631.0,kWh,0.359,226.529,Scope 2
+B0048,Pharmacy,2024-09,electricity,electricity_consumption,388.0,kWh,0.359,139.292,Scope 2
+B0048,Pharmacy,2024-10,electricity,electricity_consumption,392.0,kWh,0.359,140.728,Scope 2
+B0048,Pharmacy,2024-11,electricity,electricity_consumption,476.0,kWh,0.359,170.884,Scope 2
+B0048,Pharmacy,2024-12,electricity,electricity_consumption,250.0,kWh,0.359,89.75,Scope 2
+B0049,Pharmacy,2024-01,electricity,electricity_consumption,628.0,kWh,0.359,225.452,Scope 2
+B0049,Pharmacy,2024-02,electricity,electricity_consumption,234.0,kWh,0.359,84.006,Scope 2
+B0049,Pharmacy,2024-03,electricity,electricity_consumption,355.0,kWh,0.359,127.445,Scope 2
+B0049,Pharmacy,2024-04,electricity,electricity_consumption,133.0,kWh,0.359,47.747,Scope 2
+B0049,Pharmacy,2024-05,electricity,electricity_consumption,359.0,kWh,0.359,128.881,Scope 2
+B0049,Pharmacy,2024-06,electricity,electricity_consumption,325.0,kWh,0.359,116.675,Scope 2
+B0049,Pharmacy,2024-07,electricity,electricity_consumption,565.0,kWh,0.359,202.835,Scope 2
+B0049,Pharmacy,2024-08,electricity,electricity_consumption,261.0,kWh,0.359,93.699,Scope 2
+B0049,Pharmacy,2024-09,electricity,electricity_consumption,296.0,kWh,0.359,106.264,Scope 2
+B0049,Pharmacy,2024-10,electricity,electricity_consumption,291.0,kWh,0.359,104.469,Scope 2
+B0049,Pharmacy,2024-11,electricity,electricity_consumption,306.0,kWh,0.359,109.854,Scope 2
+B0049,Pharmacy,2024-12,electricity,electricity_consumption,400.0,kWh,0.359,143.6,Scope 2
+B005,Supermarket,2024-01,fuel,diesel,549.0,liter,2.68,1471.3200000000002,Scope 1
+B005,Supermarket,2024-01,fuel,petrol,152.0,liter,2.33,354.16,Scope 1
+B005,Supermarket,2024-02,fuel,diesel,657.0,liter,2.68,1760.7600000000002,Scope 1
+B005,Supermarket,2024-02,fuel,petrol,187.0,liter,2.33,435.71,Scope 1
+B005,Supermarket,2024-03,fuel,diesel,693.0,liter,2.68,1857.24,Scope 1
+B005,Supermarket,2024-03,fuel,petrol,229.0,liter,2.33,533.57,Scope 1
+B0050,Pharmacy,2024-01,electricity,electricity_consumption,333.0,kWh,0.359,119.547,Scope 2
+B0050,Pharmacy,2024-02,electricity,electricity_consumption,387.0,kWh,0.359,138.933,Scope 2
+B0050,Pharmacy,2024-03,electricity,electricity_consumption,264.0,kWh,0.359,94.776,Scope 2
+B0050,Pharmacy,2024-04,electricity,electricity_consumption,304.0,kWh,0.359,109.136,Scope 2
+B0050,Pharmacy,2024-05,electricity,electricity_consumption,217.0,kWh,0.359,77.903,Scope 2
+B0050,Pharmacy,2024-06,electricity,electricity_consumption,312.0,kWh,0.359,112.008,Scope 2
+B0050,Pharmacy,2024-07,electricity,electricity_consumption,512.0,kWh,0.359,183.808,Scope 2
+B0050,Pharmacy,2024-08,electricity,electricity_consumption,196.0,kWh,0.359,70.364,Scope 2
+B0050,Pharmacy,2024-09,electricity,electricity_consumption,300.0,kWh,0.359,107.7,Scope 2
+B0050,Pharmacy,2024-10,electricity,electricity_consumption,411.0,kWh,0.359,147.549,Scope 2
+B0050,Pharmacy,2024-11,electricity,electricity_consumption,236.0,kWh,0.359,84.724,Scope 2
+B0050,Pharmacy,2024-12,electricity,electricity_consumption,291.0,kWh,0.359,104.469,Scope 2
+B0051,FuelStation,2024-01,electricity,electricity_consumption,3074.0,kWh,0.359,1103.566,Scope 2
+B0051,FuelStation,2024-02,electricity,electricity_consumption,1914.0,kWh,0.359,687.126,Scope 2
+B0051,FuelStation,2024-03,electricity,electricity_consumption,2307.0,kWh,0.359,828.213,Scope 2
+B0051,FuelStation,2024-04,electricity,electricity_consumption,3040.0,kWh,0.359,1091.36,Scope 2
+B0051,FuelStation,2024-05,electricity,electricity_consumption,2332.0,kWh,0.359,837.188,Scope 2
+B0051,FuelStation,2024-06,electricity,electricity_consumption,1031.0,kWh,0.359,370.129,Scope 2
+B0051,FuelStation,2024-07,electricity,electricity_consumption,3987.0,kWh,0.359,1431.333,Scope 2
+B0051,FuelStation,2024-08,electricity,electricity_consumption,2174.0,kWh,0.359,780.466,Scope 2
+B0051,FuelStation,2024-09,electricity,electricity_consumption,1335.0,kWh,0.359,479.265,Scope 2
+B0051,FuelStation,2024-10,electricity,electricity_consumption,4433.0,kWh,0.359,1591.447,Scope 2
+B0051,FuelStation,2024-11,electricity,electricity_consumption,3828.0,kWh,0.359,1374.252,Scope 2
+B0051,FuelStation,2024-12,electricity,electricity_consumption,2246.0,kWh,0.359,806.314,Scope 2
+B0052,FuelStation,2024-01,electricity,electricity_consumption,1399.0,kWh,0.359,502.241,Scope 2
+B0052,FuelStation,2024-02,electricity,electricity_consumption,3344.0,kWh,0.359,1200.496,Scope 2
+B0052,FuelStation,2024-03,electricity,electricity_consumption,3216.0,kWh,0.359,1154.544,Scope 2
+B0052,FuelStation,2024-04,electricity,electricity_consumption,1050.0,kWh,0.359,376.95,Scope 2
+B0052,FuelStation,2024-05,electricity,electricity_consumption,1986.0,kWh,0.359,712.974,Scope 2
+B0052,FuelStation,2024-06,electricity,electricity_consumption,2718.0,kWh,0.359,975.762,Scope 2
+B0052,FuelStation,2024-07,electricity,electricity_consumption,1376.0,kWh,0.359,493.984,Scope 2
+B0052,FuelStation,2024-08,electricity,electricity_consumption,3096.0,kWh,0.359,1111.464,Scope 2
+B0052,FuelStation,2024-09,electricity,electricity_consumption,3325.0,kWh,0.359,1193.675,Scope 2
+B0052,FuelStation,2024-10,electricity,electricity_consumption,1882.0,kWh,0.359,675.638,Scope 2
+B0052,FuelStation,2024-11,electricity,electricity_consumption,2474.0,kWh,0.359,888.166,Scope 2
+B0052,FuelStation,2024-12,electricity,electricity_consumption,1566.0,kWh,0.359,562.194,Scope 2
+B0053,FuelStation,2024-01,electricity,electricity_consumption,1583.0,kWh,0.359,568.297,Scope 2
+B0053,FuelStation,2024-02,electricity,electricity_consumption,1695.0,kWh,0.359,608.505,Scope 2
+B0053,FuelStation,2024-03,electricity,electricity_consumption,2022.0,kWh,0.359,725.898,Scope 2
+B0053,FuelStation,2024-04,electricity,electricity_consumption,1462.0,kWh,0.359,524.858,Scope 2
+B0053,FuelStation,2024-05,electricity,electricity_consumption,1254.0,kWh,0.359,450.186,Scope 2
+B0053,FuelStation,2024-06,electricity,electricity_consumption,2674.0,kWh,0.359,959.966,Scope 2
+B0053,FuelStation,2024-07,electricity,electricity_consumption,2009.0,kWh,0.359,721.231,Scope 2
+B0053,FuelStation,2024-08,electricity,electricity_consumption,2144.0,kWh,0.359,769.696,Scope 2
+B0053,FuelStation,2024-09,electricity,electricity_consumption,1213.0,kWh,0.359,435.467,Scope 2
+B0053,FuelStation,2024-10,electricity,electricity_consumption,2905.0,kWh,0.359,1042.895,Scope 2
+B0053,FuelStation,2024-11,electricity,electricity_consumption,3049.0,kWh,0.359,1094.591,Scope 2
+B0053,FuelStation,2024-12,electricity,electricity_consumption,1864.0,kWh,0.359,669.176,Scope 2
+B0054,FuelStation,2024-01,electricity,electricity_consumption,754.0,kWh,0.359,270.686,Scope 2
+B0054,FuelStation,2024-02,electricity,electricity_consumption,3870.0,kWh,0.359,1389.33,Scope 2
+B0054,FuelStation,2024-03,electricity,electricity_consumption,2949.0,kWh,0.359,1058.691,Scope 2
+B0054,FuelStation,2024-04,electricity,electricity_consumption,1531.0,kWh,0.359,549.629,Scope 2
+B0054,FuelStation,2024-05,electricity,electricity_consumption,4142.0,kWh,0.359,1486.978,Scope 2
+B0054,FuelStation,2024-06,electricity,electricity_consumption,1643.0,kWh,0.359,589.837,Scope 2
+B0054,FuelStation,2024-07,electricity,electricity_consumption,1853.0,kWh,0.359,665.227,Scope 2
+B0054,FuelStation,2024-08,electricity,electricity_consumption,3456.0,kWh,0.359,1240.704,Scope 2
+B0054,FuelStation,2024-09,electricity,electricity_consumption,2085.0,kWh,0.359,748.515,Scope 2
+B0054,FuelStation,2024-10,electricity,electricity_consumption,1277.0,kWh,0.359,458.443,Scope 2
+B0054,FuelStation,2024-11,electricity,electricity_consumption,1807.0,kWh,0.359,648.713,Scope 2
+B0054,FuelStation,2024-12,electricity,electricity_consumption,974.0,kWh,0.359,349.666,Scope 2
+B0055,FuelStation,2024-01,electricity,electricity_consumption,2278.0,kWh,0.359,817.802,Scope 2
+B0055,FuelStation,2024-02,electricity,electricity_consumption,4672.0,kWh,0.359,1677.248,Scope 2
+B0055,FuelStation,2024-03,electricity,electricity_consumption,2212.0,kWh,0.359,794.108,Scope 2
+B0055,FuelStation,2024-04,electricity,electricity_consumption,2095.0,kWh,0.359,752.105,Scope 2
+B0055,FuelStation,2024-05,electricity,electricity_consumption,2423.0,kWh,0.359,869.857,Scope 2
+B0055,FuelStation,2024-06,electricity,electricity_consumption,3123.0,kWh,0.359,1121.157,Scope 2
+B0055,FuelStation,2024-07,electricity,electricity_consumption,1015.0,kWh,0.359,364.385,Scope 2
+B0055,FuelStation,2024-08,electricity,electricity_consumption,3257.0,kWh,0.359,1169.263,Scope 2
+B0055,FuelStation,2024-09,electricity,electricity_consumption,3222.0,kWh,0.359,1156.698,Scope 2
+B0055,FuelStation,2024-10,electricity,electricity_consumption,3290.0,kWh,0.359,1181.11,Scope 2
+B0055,FuelStation,2024-11,electricity,electricity_consumption,1999.0,kWh,0.359,717.641,Scope 2
+B0055,FuelStation,2024-12,electricity,electricity_consumption,1146.0,kWh,0.359,411.414,Scope 2
+B0056,FuelStation,2024-01,electricity,electricity_consumption,3070.0,kWh,0.359,1102.13,Scope 2
+B0056,FuelStation,2024-02,electricity,electricity_consumption,2219.0,kWh,0.359,796.621,Scope 2
+B0056,FuelStation,2024-03,electricity,electricity_consumption,2968.0,kWh,0.359,1065.512,Scope 2
+B0056,FuelStation,2024-04,electricity,electricity_consumption,1252.0,kWh,0.359,449.468,Scope 2
+B0056,FuelStation,2024-05,electricity,electricity_consumption,2324.0,kWh,0.359,834.316,Scope 2
+B0056,FuelStation,2024-06,electricity,electricity_consumption,910.0,kWh,0.359,326.69,Scope 2
+B0056,FuelStation,2024-07,electricity,electricity_consumption,3176.0,kWh,0.359,1140.184,Scope 2
+B0056,FuelStation,2024-08,electricity,electricity_consumption,3236.0,kWh,0.359,1161.724,Scope 2
+B0056,FuelStation,2024-09,electricity,electricity_consumption,982.0,kWh,0.359,352.538,Scope 2
+B0056,FuelStation,2024-10,electricity,electricity_consumption,2187.0,kWh,0.359,785.133,Scope 2
+B0056,FuelStation,2024-11,electricity,electricity_consumption,2219.0,kWh,0.359,796.621,Scope 2
+B0056,FuelStation,2024-12,electricity,electricity_consumption,3813.0,kWh,0.359,1368.867,Scope 2
+B0057,FuelStation,2024-01,electricity,electricity_consumption,1027.0,kWh,0.359,368.693,Scope 2
+B0057,FuelStation,2024-02,electricity,electricity_consumption,1535.0,kWh,0.359,551.065,Scope 2
+B0057,FuelStation,2024-03,electricity,electricity_consumption,1217.0,kWh,0.359,436.903,Scope 2
+B0057,FuelStation,2024-04,electricity,electricity_consumption,2354.0,kWh,0.359,845.086,Scope 2
+B0057,FuelStation,2024-05,electricity,electricity_consumption,2669.0,kWh,0.359,958.171,Scope 2
+B0057,FuelStation,2024-06,electricity,electricity_consumption,1304.0,kWh,0.359,468.136,Scope 2
+B0057,FuelStation,2024-07,electricity,electricity_consumption,1378.0,kWh,0.359,494.702,Scope 2
+B0057,FuelStation,2024-08,electricity,electricity_consumption,2889.0,kWh,0.359,1037.151,Scope 2
+B0057,FuelStation,2024-09,electricity,electricity_consumption,2493.0,kWh,0.359,894.987,Scope 2
+B0057,FuelStation,2024-10,electricity,electricity_consumption,2410.0,kWh,0.359,865.19,Scope 2
+B0057,FuelStation,2024-11,electricity,electricity_consumption,4063.0,kWh,0.359,1458.617,Scope 2
+B0057,FuelStation,2024-12,electricity,electricity_consumption,1791.0,kWh,0.359,642.969,Scope 2
+B0058,FuelStation,2024-01,electricity,electricity_consumption,4352.0,kWh,0.359,1562.368,Scope 2
+B0058,FuelStation,2024-02,electricity,electricity_consumption,1949.0,kWh,0.359,699.691,Scope 2
+B0058,FuelStation,2024-03,electricity,electricity_consumption,1002.0,kWh,0.359,359.718,Scope 2
+B0058,FuelStation,2024-04,electricity,electricity_consumption,1572.0,kWh,0.359,564.348,Scope 2
+B0058,FuelStation,2024-05,electricity,electricity_consumption,634.0,kWh,0.359,227.606,Scope 2
+B0058,FuelStation,2024-06,electricity,electricity_consumption,1731.0,kWh,0.359,621.429,Scope 2
+B0058,FuelStation,2024-07,electricity,electricity_consumption,1897.0,kWh,0.359,681.023,Scope 2
+B0058,FuelStation,2024-08,electricity,electricity_consumption,1620.0,kWh,0.359,581.58,Scope 2
+B0058,FuelStation,2024-09,electricity,electricity_consumption,4539.0,kWh,0.359,1629.501,Scope 2
+B0058,FuelStation,2024-10,electricity,electricity_consumption,1809.0,kWh,0.359,649.431,Scope 2
+B0058,FuelStation,2024-11,electricity,electricity_consumption,1935.0,kWh,0.359,694.665,Scope 2
+B0058,FuelStation,2024-12,electricity,electricity_consumption,2619.0,kWh,0.359,940.221,Scope 2
+B0059,FuelStation,2024-01,electricity,electricity_consumption,1089.0,kWh,0.359,390.951,Scope 2
+B0059,FuelStation,2024-02,electricity,electricity_consumption,3095.0,kWh,0.359,1111.105,Scope 2
+B0059,FuelStation,2024-03,electricity,electricity_consumption,1412.0,kWh,0.359,506.908,Scope 2
+B0059,FuelStation,2024-04,electricity,electricity_consumption,2446.0,kWh,0.359,878.114,Scope 2
+B0059,FuelStation,2024-05,electricity,electricity_consumption,2666.0,kWh,0.359,957.094,Scope 2
+B0059,FuelStation,2024-06,electricity,electricity_consumption,3180.0,kWh,0.359,1141.62,Scope 2
+B0059,FuelStation,2024-07,electricity,electricity_consumption,4201.0,kWh,0.359,1508.159,Scope 2
+B0059,FuelStation,2024-08,electricity,electricity_consumption,2473.0,kWh,0.359,887.807,Scope 2
+B0059,FuelStation,2024-09,electricity,electricity_consumption,2775.0,kWh,0.359,996.225,Scope 2
+B0059,FuelStation,2024-10,electricity,electricity_consumption,1676.0,kWh,0.359,601.684,Scope 2
+B0059,FuelStation,2024-11,electricity,electricity_consumption,1106.0,kWh,0.359,397.054,Scope 2
+B0059,FuelStation,2024-12,electricity,electricity_consumption,1793.0,kWh,0.359,643.687,Scope 2
+B006,SmallShop,2024-01,fuel,petrol,50.0,liter,2.33,116.5,Scope 1
+B006,SmallShop,2024-02,fuel,petrol,62.0,liter,2.33,144.46,Scope 1
+B006,SmallShop,2024-03,fuel,petrol,41.0,liter,2.33,95.53,Scope 1
+B0060,FuelStation,2024-01,electricity,electricity_consumption,699.0,kWh,0.359,250.941,Scope 2
+B0060,FuelStation,2024-02,electricity,electricity_consumption,713.0,kWh,0.359,255.967,Scope 2
+B0060,FuelStation,2024-03,electricity,electricity_consumption,4613.0,kWh,0.359,1656.067,Scope 2
+B0060,FuelStation,2024-04,electricity,electricity_consumption,1903.0,kWh,0.359,683.177,Scope 2
+B0060,FuelStation,2024-05,electricity,electricity_consumption,1475.0,kWh,0.359,529.525,Scope 2
+B0060,FuelStation,2024-06,electricity,electricity_consumption,1190.0,kWh,0.359,427.21,Scope 2
+B0060,FuelStation,2024-07,electricity,electricity_consumption,1720.0,kWh,0.359,617.48,Scope 2
+B0060,FuelStation,2024-08,electricity,electricity_consumption,4170.0,kWh,0.359,1497.03,Scope 2
+B0060,FuelStation,2024-09,electricity,electricity_consumption,1299.0,kWh,0.359,466.341,Scope 2
+B0060,FuelStation,2024-10,electricity,electricity_consumption,2437.0,kWh,0.359,874.883,Scope 2
+B0060,FuelStation,2024-11,electricity,electricity_consumption,1861.0,kWh,0.359,668.099,Scope 2
+B0060,FuelStation,2024-12,electricity,electricity_consumption,1686.0,kWh,0.359,605.274,Scope 2
