@@ -1,4 +1,4 @@
- Eco-Impact Tracker NG
+Eco-Impact Tracker NG
  The **Eco-Impact Tracker NG** is a sustainability-focused tool for tracking, analyzing, and visualizing greenhouse gas (GHG) emissions from multiple business activities in Nigeria.  
  It supports emissions from **electricity, fuel, waste, transport, water, business travel, and commuting** (Scope 1, 2, and 3).
 
@@ -57,6 +57,30 @@
 
  ---
 
+## 🔄 Daily Development
+This project is actively maintained with daily commits to track progress and maintain development momentum. 
+
+### Recent Updates
+- Enhanced backend API with improved database connections
+- Added comprehensive data processing for multiple emission sources
+- Improved frontend dashboard with better visualizations
+- Optimized data processing pipelines
+
+### Development Goals
+- ✅ Complete emission tracking for all scopes (1, 2, 3)
+- 🔄 Implement predictive analytics
+- 📊 Enhance dashboard visualizations
+- 🚀 Deploy to production environment
+
+ ---
+
  ##  Author
- Developed by agoro oluwatimilehin
-  Contact: agorotimilehin05@gmail.com
+Developed by agoro oluwatimilehin  
+Contact: agorotimilehin05@gmail.com  
+GitHub: [@drizzy765](https://github.com/drizzy765)
+
+---
+## 🌟 Star History
+If you find this project useful, please consider giving it a star!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=drizzy765/ecoimpacttrackerNG&type=Date)](https://star-history.com/#drizzy765/ecoimpacttrackerNG&Date)

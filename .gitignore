@@ -1,0 +1,67 @@
+# Environment variables (CRITICAL - never track secrets)
+.env
+.env.local
+.env.*.local
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+backend_env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS junk files
+Thumbs.db
+.DS_Store
+.Spotlight-V100
+.Trashes
+# csv file
+demo.csv
+
+# Backup files
+*.bak
+*-backup.*
+backend-backup.bundle
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# AI tool rules (local)
+.github/instructions/
+.cursor/rules/
