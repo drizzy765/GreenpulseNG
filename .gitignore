@@ -1,67 +1,21 @@
-# Environment variables (CRITICAL - never track secrets)
-.env
-.env.local
-.env.*.local
+# Global Safety
+**/.env
+**/.env.local
+**/.env.production.local
+**/.DS_Store
 
-# Database files
-*.db
-*.sqlite
-*.sqlite3
+# Dependencies
+**/node_modules/
+**/venv/
+**/__pycache__/
+*.pyc
 
-# Python cache and compiled files
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-
-# Virtual environments
-venv/
-.venv/
-env/
-ENV/
-backend_env/
-
-# IDEs and editors
+# IDEs
 .vscode/
 .idea/
-*.swp
-*.swo
-*~
-.DS_Store
 
-# OS junk files
-Thumbs.db
-.DS_Store
-.Spotlight-V100
-.Trashes
-# csv file
-demo.csv
+# Logs
+logs/
+*.log
 
-# Backup files
-*.bak
-*-backup.*
-backend-backup.bundle
-
-# Temporary files
-tmp/
-temp/
-*.tmp
-
-# pytest
-.pytest_cache/
-.coverage
-htmlcov/
-
-# pip
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Distribution
-dist/
-build/
-*.egg-info/
-
-# AI tool rules (local)
-.github/instructions/
-.cursor/rules/
+.git_backup/

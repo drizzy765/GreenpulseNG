@@ -1,0 +1,17 @@
+business_id,business_type,source_category,date,amount,emission_factor,emissions_kgCO2e
+B0001,manufacturing,electricity,2024-01-01,1000,0.5,500
+B0001,manufacturing,electricity,2024-02-01,900,0.5,450
+B0001,manufacturing,transport,2024-01-01,200,2.5,500
+B0001,manufacturing,transport,2024-02-01,180,2.5,450
+B0001,manufacturing,waste,2024-01-01,50,1.8,90
+B0001,manufacturing,waste,2024-02-01,45,1.8,81
+B0001,manufacturing,commute,2024-01-01,300,0.4,120
+B0001,manufacturing,commute,2024-02-01,290,0.4,116
+B0002,retail,electricity,2024-01-01,600,0.6,360
+B0002,retail,electricity,2024-02-01,620,0.6,372
+B0002,retail,waste,2024-01-01,40,1.5,60
+B0002,retail,waste,2024-02-01,38,1.5,57
+B0002,retail,transport,2024-01-01,100,2.0,200
+B0002,retail,transport,2024-02-01,95,2.0,190
+B0002,retail,commute,2024-01-01,220,0.4,88
+B0002,retail,commute,2024-02-01,230,0.4,92

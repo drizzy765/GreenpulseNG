@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+joblib
+requests
+scikit-learn
+prophet
+transformers
+pydantic
+reportlab==3.6.12
+python-jose[cryptography]
+passlib[bcrypt]
+google-generativeai
+groq
+python-dotenv
