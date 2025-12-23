@@ -1,13 +1,13 @@
-# GreenPulseNG VERSION 1 🌍
+# GreenPulseNG VERSION 1 
 
 **GreenPulseNG** provides AI-powered carbon emission tracking and insights tailored for Nigerian businesses. This repository contains the source code for Version 1.
 
-## 🚀 Live Demo
+## Live Demo
 **Frontend Application:** [https://greenpulsefrontend.vercel.app/](https://greenpulsefrontend.vercel.app/)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 This project consists of two main components:
 
@@ -30,7 +30,7 @@ The Frontend UI hosted on Vercel.
 
 ---
 
-## 🛠️ Setup & Deployment
+##  Setup & Deployment
 
 ### Backend Setup
 1. Navigate to `backend/`.
@@ -47,7 +47,7 @@ The Frontend UI hosted on Vercel.
 
 ---
 
-## 🏗️ Development Journey
+##  Development Journey
 The creation of GreenPulseNG followed a rigorous software engineering process:
 1.  **Architecture Design:** Decoupled Frontend (React) and Backend (FastAPI) for scalability.
 2.  **Database Modeling:** Designed SQLite schema for users, emissions, and business profiles.
@@ -57,7 +57,7 @@ The creation of GreenPulseNG followed a rigorous software engineering process:
 6.  **Responsive UI:** Crafted a mobile-first interface with "Quick Insights" and real-time dashboards.
 7.  **Deployment Pipeline:** Established CI/CD workflows via Vercel (Frontend) and Render (Backend).
 
-## 📦 Version 1 Release Notes
+##  Version 1 Release Notes
 - **AI-Powered Insights:** Custom analysis for Nigerian market context.
 - **PDF Reporting:** robust layout engine for generating professional carbon reports.
 - **Mobile Optimized:** fully responsive design including "Quick Insights" sidebar management.
