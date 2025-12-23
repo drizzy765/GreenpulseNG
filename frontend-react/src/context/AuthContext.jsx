@@ -21,16 +21,22 @@ export function AuthProvider({ children }) {
 
     // Initialize Auth State
     useEffect(() => {
-        const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
-            setUser(currentUser);
-            setLoading(false);
-
+        const unsubscribe = onAuthStateChanged(auth, async (currentUser) => {
             if (currentUser) {
+                // Get and store token for backend requests
+                const token = await currentUser.getIdToken();
+                localStorage.setItem('token', token);
+
                 // Clear guest data on login to ensure clean state
                 localStorage.removeItem('guest_emissions');
-                localStorage.removeItem('dashboard_cache'); // Cleanup old cache if any
+                localStorage.removeItem('dashboard_cache');
+            } else {
+                // Clear token on logout
+                localStorage.removeItem('token');
             }
-            // If user logs in, we might want to sync business profile here later.
+
+            setUser(currentUser);
+            setLoading(false);
         });
         return unsubscribe;
     }, []);

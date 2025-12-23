@@ -182,7 +182,7 @@ export default function AiCalculator() {
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
         {/* Chat Interface */}
         <div className="lg:col-span-3">
-          <Card className="h-[600px] flex flex-col border-slate-200">
+          <Card className="h-[500px] lg:h-[600px] flex flex-col border-slate-200">
             <div className="card-content flex-1 flex flex-col">
               {/* Chat Header */}
               <div className="border-b border-slate-200 pb-4 mb-4">
@@ -347,7 +347,7 @@ export default function AiCalculator() {
         </div>
 
         {/* Quick Insights Sidebar */}
-        <div className="lg:col-span-1 space-y-6">
+        <div className="hidden lg:block lg:col-span-1 space-y-6">
           <Card>
             <div className="card-content">
               <h3 className="text-lg font-semibold text-slate-900 mb-4">
