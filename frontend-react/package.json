@@ -1,7 +1,8 @@
 {
-  "name": "frontend-react",
+  "name": "greenpulseng-frontend",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.0.0",
+  "description": "GreenPulseNG Frontend Application - ",
   "type": "module",
   "engines": {
     "node": ">=18.0.0"
