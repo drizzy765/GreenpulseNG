@@ -3,7 +3,7 @@
 **GreenPulseNG** provides AI-powered carbon emission tracking and insights tailored for Nigerian businesses. This repository contains the source code for Version 1.
 
 ## Live Demo
-**Frontend Application:** [https://greenpulsefrontend.vercel.app/](https://greenpulsefrontend.vercel.app/)
+**Frontend Application:** [https://greenpulsefrontend.vercel.app/](https://greenpulsefrontend-dk8y.vercel.app/)
 
 ---
 
